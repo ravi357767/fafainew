@@ -1,0 +1,221 @@
+@media (max-width: 768px) {
+    /*Contact wrapper media css*/
+    .page-header{
+        text-align: center;
+        padding: 0%;
+    }
+    .page-header > h2{
+        font-size: 25px;
+    }
+    .contact-breadcrupms{
+        font-size: 10px;
+        width: 100%;
+    }
+    .contact-details-wrapper{
+        width: 100%;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .address-wrapper{
+        width: 50%;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-bottom: 10px;
+    }
+    .contact-details-header > span{
+        font-size: 33px;
+    }
+    /*Contact wrapper media css*/
+
+    /*About wrapper media css*/
+    .about-image-wrapper{
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .about-profile-heading > span{
+        font-size: 20px;
+        font-weight: 700;
+        color: white;
+        font-family: var(--mainFont);
+    }
+    .about-profile-heading > p{
+        font-size: 15px;
+        font-weight: 500;
+        color: white;
+        font-family: var(--mainFont);
+    }
+    .about-profile-main{
+        width: 100%;
+        padding: 5%;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .about-profile-mission > p{
+        font-size: 18px;
+        font-family: var(--mainFont);
+    }
+    .about-profile-vision > p{
+        font-size: 18px;
+        font-family: var(--mainFont);
+    }
+    /*About wrapper media css*/
+
+    /*Managing Committee wrapper media css*/
+    .committees-label > p{
+        font-size: 20px;
+        font-family: var(--mainFont);
+        font-weight: 600;
+    }
+    .committees-profiles{
+        display: inline-flex;
+        justify-content: start;
+        flex-direction: column;
+    }
+    .committees-profiles-wrapper{
+        margin-bottom: 30px;
+    }
+    /*Managing Committee wrapper media css*/
+
+    /*Index wrapper media css*/
+    .main-container{
+        width: 100%;
+    }
+
+    /*Index wrapper media css*/
+    
+}
+/*************************************************Break***********************************************************/
+
+@media (max-width: 480px) {
+    /*Contact wrapper media css*/
+    .contact-details-wrapper{
+        width: 100%;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .address-wrapper{
+        width: 90%;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-bottom: 10px;
+    }
+    .contact-details-header > span{
+        font-size: 18px;
+        line-height: 12px;
+    }
+    /*Contact wrapper media css*/
+
+    /*About wrapper media css*/
+    .about-image-wrapper{
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    #about-img{
+        width: 350px;
+        height: 300px;
+        border-radius: 5px;
+        margin: 20px;
+    }
+    .about-image-wrapper{
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .about-profile-heading > span{
+        font-size: 20px;
+        font-weight: 700;
+        color: white;
+        font-family: var(--mainFont);
+    }
+    .about-profile-heading > p{
+        font-size: 15px;
+        font-weight: 500;
+        color: white;
+        font-family: var(--mainFont);
+    }
+    .about-profile-main{
+        width: 100%;
+        padding: 5%;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .about-profile-mission{
+        width: 100%;
+        font-size: 20px;
+    }
+    .about-profile-vision{
+        width: 100%;
+    }
+    .about-profile-mission > p{
+        font-size: 18px;
+        font-family: var(--mainFont);
+    }
+    .about-profile-vision > p{
+        font-size: 18px;
+        font-family: var(--mainFont);
+    }
+    /*About wrapper media css*/
+
+    /*Managing Committee wrapper media css*/
+    .committees-label > p{
+        font-size: 18px;
+        font-family: var(--mainFont);
+        font-weight: 600;
+    }
+    .committees-profiles{
+        display: inline-flex;
+        justify-content: start;
+        flex-direction: column;
+    }
+    .committees-img-wrapper{
+        width: 100%;
+        display: inline-flex;
+        justify-content: start;
+        flex-direction: column;
+        align-items: start;
+    }
+    .committees-img-wrapper > p{
+        font-size: 20px;
+    }
+    .committees-details-wrapper{
+        width: 100%;
+    }
+    .committees-details-wrapper > p{
+        font-size: 20px;
+    }
+    .committees-details-wrapper > span{
+        font-size: 16px;
+    }
+    .committees-details-footer > span > i > a{
+        font-size: 16px;
+    }
+    .committees-profiles-wrapper{
+        margin-bottom: 30px;
+    }
+    /*Managing Committee wrapper media css*/
+
+    /*Index wrapper media css*/
+    .main-container{
+        width: 100%;
+    }
+    .btn-grp{
+        display: inline-flex;
+        flex-direction: column;
+        width: 100%;
+        justify-content: space-between;
+    }
+    .btn-grp > a >{
+        width: 100%;
+    }
+    /*Index wrapper media css*/
+}
