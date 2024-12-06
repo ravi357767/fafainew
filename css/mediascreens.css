@@ -85,8 +85,37 @@
     .main-container{
         width: 100%;
     }
-
     /*Index wrapper media css*/
+    
+    /*Discover Flavour wrapper media css*/
+    .flavours-prepatation-wrapper{
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    #flavours-prepatation-img{
+        width: 100%;
+        height: 200px;
+    }
+    #flavours-prepatation-img:hover{
+        width: 100%;
+        height: 200px;
+    }
+    .discover-flavour-main-wrapper{
+        display: inline-flex;
+        flex-direction: column;
+    }
+    .discover-flavour-main{
+        width: 100%;
+    }
+    .flavours-prepatation-main > span{
+        font-size: 30px;
+    }
+    #discover-flavour-main-img{
+        width: 100%;
+        height: 200px;
+    }
+    /*Discover Flavour wrapper media css*/
     
 }
 /*************************************************Break***********************************************************/
@@ -218,4 +247,34 @@
         width: 100%;
     }
     /*Index wrapper media css*/
+
+    /*Discover Flavour wrapper media css*/
+    .flavours-prepatation-wrapper{
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    #flavours-prepatation-img{
+        width: 100%;
+        height: 200px;
+    }
+    #flavours-prepatation-img:hover{
+        width: 100%;
+        height: 200px;
+    }
+    .discover-flavour-main-wrapper{
+        display: inline-flex;
+        flex-direction: column;
+    }
+    .discover-flavour-main{
+        width: 100%;
+    }
+    .flavours-prepatation-main > span{
+        font-size: 30px;
+    }
+    #discover-flavour-main-img{
+        width: 100%;
+        height: 200px;
+    }
+    /*Discover Flavour wrapper media css*/
 }

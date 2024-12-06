@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -8,9 +10,14 @@
 }
 :root{
     --mainFont: "Outfit", sans-serif;
+    --secondaryfont : "Lato", sans-serif;
     --Header-dark : #6b6b6b;
     --Navbar-Cream : #ecdec1;
     --Light-Brown : #b6713e;
+    --bgcolor : #fcf7ee;
+}
+body{
+    background-color: var(--Navbar-Cream);
 }
 /* header{
     width: 100%;
@@ -475,3 +482,135 @@ header > .container > nav > ul > li > a{
     text-decoration: underline;
     transition-duration: 0.4s;
 } */
+.flavours-wrapper{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+    background-color: var(--bgcolor);
+    /* border: 1px solid green; */
+}
+.whatisflavours-wrapper{
+    width: 90%;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.whatisflavours-wrapper > span{
+    font-family: var(--mainFont);
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 57.4px;
+    margin-bottom: 20px;
+}
+.whatisflavours-wrapper > p{
+    font-family: var(--secondaryfont);
+    font-size: 18px;
+    line-height: 29.52px;
+    font-weight: 400;
+    text-align: center;
+}
+.flavours-prepatation-wrapper{
+    width: 100%;
+    /* border: 1px solid blue; */
+    padding: 10px;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#flavours-prepatation-img{
+    width: 500px;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+#flavours-prepatation-img:hover{
+    width: 550px;
+    height: 360px;
+    transition: all;
+    transition-duration: 0.3s;
+}
+.flavours-prepatation-main{
+    width: 100%;
+    padding: 10px;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.flavours-prepatation-main > span{
+    font-family: var(--mainFont);
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 57.4px;
+    margin-bottom: 20px;
+}
+.flavours-prepatation-main > p{
+    width: 90%;
+    font-size: 18px;
+    line-height: 29.52px;
+    font-weight: 400;
+    color: #202020;
+}
+.discover-flavours{
+    width: 100%;
+    padding: 10px;
+    /* border: 1px solid red; */
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.discover-flavour-main-wrapper{
+    width: 100%;
+    padding: 10px;
+    /* border: 1px solid red; */
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.discover-flavour-main{
+    width: 30%;
+    /* border: 1px solid black; */
+    padding: 5px;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.discover-flavours > span{
+    font-family: var(--mainFont);
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 57.4px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.discover-flavour-main > span{
+    font-family: var(--mainFont);
+    color: #319259;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 41px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#discover-flavour-main-img{
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.discover-flavour-main > p{
+    font-family: var(--secondaryfont);
+    font-size: 15px;
+    line-height: 24.6px;
+    font-weight: 500;
+    color: #202020;
+}
