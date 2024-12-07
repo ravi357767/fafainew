@@ -1,333 +1,419 @@
 @media (max-width: 768px) {
+
     /*Contact wrapper media css*/
-    .page-header{
+    .page-header {
         text-align: center;
         padding: 0%;
     }
-    .page-header > h2{
+
+    .page-header>h2 {
         font-size: 25px;
     }
-    .contact-breadcrupms{
+
+    .contact-breadcrupms {
         font-size: 10px;
         width: 100%;
     }
-    .contact-details-wrapper{
+
+    .contact-details-wrapper {
         width: 100%;
         display: inline-flex;
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
     }
-    .address-wrapper{
+
+    .address-wrapper {
         width: 50%;
         display: inline-flex;
         flex-direction: column;
         justify-content: space-between;
         margin-bottom: 10px;
     }
-    .contact-details-header > span{
+
+    .contact-details-header>span {
         font-size: 33px;
     }
+
     /*Contact wrapper media css*/
 
     /*About wrapper media css*/
-    .about-image-wrapper{
+    .about-image-wrapper {
         display: inline-flex;
         flex-direction: column;
         justify-content: space-evenly;
     }
-    .about-profile-heading > span{
+
+    .about-profile-heading>span {
         font-size: 20px;
         font-weight: 700;
         color: white;
         font-family: var(--mainFont);
     }
-    .about-profile-heading > p{
+
+    .about-profile-heading>p {
         font-size: 15px;
         font-weight: 500;
         color: white;
         font-family: var(--mainFont);
     }
-    .about-profile-main{
+
+    .about-profile-main {
         width: 100%;
         padding: 5%;
         display: inline-flex;
         flex-direction: column;
         justify-content: space-between;
     }
-    .about-profile-mission > p{
+
+    .about-profile-mission>p {
         font-size: 18px;
         font-family: var(--mainFont);
     }
-    .about-profile-vision > p{
+
+    .about-profile-vision>p {
         font-size: 18px;
         font-family: var(--mainFont);
     }
+
     /*About wrapper media css*/
 
     /*Managing Committee wrapper media css*/
-    .committees-label > p{
+    .committees-label>p {
         font-size: 20px;
         font-family: var(--mainFont);
         font-weight: 600;
     }
-    .committees-profiles{
+
+    .committees-profiles {
         display: inline-flex;
         justify-content: start;
         flex-direction: column;
     }
-    .committees-profiles-wrapper{
+
+    .committees-profiles-wrapper {
         margin-bottom: 30px;
     }
+
     /*Managing Committee wrapper media css*/
 
     /*Index wrapper media css*/
-    .main-container{
+    .main-container {
         width: 100%;
     }
+
     /*Index wrapper media css*/
-    
+
     /*Discover Flavour wrapper media css*/
-    .flavours-prepatation-wrapper{
+    .flavours-prepatation-wrapper {
         display: inline-flex;
         flex-direction: column;
         justify-content: space-around;
     }
-    #flavours-prepatation-img{
+
+    #flavours-prepatation-img {
         width: 100%;
         height: 200px;
     }
-    #flavours-prepatation-img:hover{
+
+    #flavours-prepatation-img:hover {
         width: 100%;
         height: 200px;
     }
-    .discover-flavour-main-wrapper{
+
+    .discover-flavour-main-wrapper {
         display: inline-flex;
         flex-direction: column;
     }
-    .discover-flavour-main{
+
+    .discover-flavour-main {
         width: 100%;
     }
-    .flavours-prepatation-main > span{
+
+    .flavours-prepatation-main>span {
         font-size: 30px;
     }
-    #discover-flavour-main-img{
+
+    #discover-flavour-main-img {
         width: 100%;
         height: 200px;
     }
+
     /*Discover Flavour wrapper media css*/
-    
+
 }
+
 /*************************************************Break***********************************************************/
 
 @media (max-width: 480px) {
+
     /*Contact wrapper media css*/
-    .contact-details-wrapper{
+    .contact-details-wrapper {
         width: 100%;
         display: inline-flex;
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
     }
-    .address-wrapper{
+
+    .address-wrapper {
         width: 90%;
         display: inline-flex;
         flex-direction: column;
         justify-content: space-between;
         margin-bottom: 10px;
     }
-    .contact-details-header > span{
+
+    .contact-details-header>span {
         font-size: 18px;
         line-height: 12px;
     }
+
     /*Contact wrapper media css*/
 
     /*About wrapper media css*/
-    .about-image-wrapper{
+    .about-image-wrapper {
         display: inline-flex;
         flex-direction: column;
         justify-content: space-evenly;
     }
-    #about-img{
+
+    #about-img {
         width: 350px;
         height: 300px;
         border-radius: 5px;
         margin: 20px;
     }
-    .about-image-wrapper{
+
+    .about-image-wrapper {
         display: inline-flex;
         flex-direction: column;
         justify-content: space-evenly;
     }
-    .about-profile-heading > span{
+
+    .about-profile-heading>span {
         font-size: 20px;
         font-weight: 700;
         color: white;
         font-family: var(--mainFont);
     }
-    .about-profile-heading > p{
+
+    .about-profile-heading>p {
         font-size: 15px;
         font-weight: 500;
         color: white;
         font-family: var(--mainFont);
     }
-    .about-profile-main{
+
+    .about-profile-main {
         width: 100%;
         padding: 5%;
         display: inline-flex;
         flex-direction: column;
         justify-content: space-between;
     }
-    .about-profile-mission{
+
+    .about-profile-mission {
         width: 100%;
         font-size: 20px;
     }
-    .about-profile-vision{
+
+    .about-profile-vision {
         width: 100%;
     }
-    .about-profile-mission > p{
+
+    .about-profile-mission>p {
         font-size: 18px;
         font-family: var(--mainFont);
     }
-    .about-profile-vision > p{
+
+    .about-profile-vision>p {
         font-size: 18px;
         font-family: var(--mainFont);
     }
+
     /*About wrapper media css*/
 
     /*Managing Committee wrapper media css*/
-    .committees-label > p{
+    .committees-label>p {
         font-size: 18px;
         font-family: var(--mainFont);
         font-weight: 600;
     }
-    .committees-profiles{
+
+    .committees-profiles {
         display: inline-flex;
         justify-content: start;
         flex-direction: column;
     }
-    .committees-img-wrapper{
+
+    .committees-img-wrapper {
         width: 100%;
         display: inline-flex;
         justify-content: start;
         flex-direction: column;
         align-items: start;
     }
-    .committees-img-wrapper > p{
+
+    .committees-img-wrapper>p {
         font-size: 20px;
     }
-    .committees-details-wrapper{
+
+    .committees-details-wrapper {
         width: 100%;
     }
-    .committees-details-wrapper > p{
+
+    .committees-details-wrapper>p {
         font-size: 20px;
     }
-    .committees-details-wrapper > span{
+
+    .committees-details-wrapper>span {
         font-size: 16px;
     }
-    .committees-details-footer > span > i > a{
+
+    .committees-details-footer>span>i>a {
         font-size: 16px;
     }
-    .committees-profiles-wrapper{
+
+    .committees-profiles-wrapper {
         margin-bottom: 30px;
     }
+
     /*Managing Committee wrapper media css*/
 
     /*Index wrapper media css*/
-    .main-container{
+    .main-container {
         width: 100%;
     }
-    .btn-grp{
+
+    .btn-grp {
         display: inline-flex;
         flex-direction: column;
         width: 100%;
         justify-content: space-between;
     }
-    .btn-grp > a >{
+
+    .btn-grp>a> {
         width: 100%;
     }
+
     /*Index wrapper media css*/
 
     /*Discover Flavour wrapper media css*/
-    .flavours-prepatation-wrapper{
+    .flavours-prepatation-wrapper {
         display: inline-flex;
         flex-direction: column;
         justify-content: space-around;
     }
-    #flavours-prepatation-img{
+
+    #flavours-prepatation-img {
         width: 100%;
         height: 200px;
     }
-    #flavours-prepatation-img:hover{
+
+    #flavours-prepatation-img:hover {
         width: 100%;
         height: 200px;
     }
-    .discover-flavour-main-wrapper{
+
+    .discover-flavour-main-wrapper {
         display: inline-flex;
         flex-direction: column;
     }
-    .discover-flavour-main{
+
+    .discover-flavour-main {
         width: 100%;
     }
-    .flavours-prepatation-main > span{
+
+    .flavours-prepatation-main>span {
         font-size: 30px;
     }
-    #discover-flavour-main-img{
+
+    #discover-flavour-main-img {
         width: 100%;
         height: 200px;
     }
+
     /*Discover Flavour wrapper media css*/
 
     /*Discover Fragrances wrapper media css*/
-    .collection{
+    .collection {
         width: 100%;
         display: inline-flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
-    .collection-main{
+
+    .collection-main {
         display: inline-flex;
         flex-direction: column;
     }
-    #collection-img{
+
+    #collection-img {
         width: 100%;
     }
-    .collection-main > span{
+
+    .collection-main>span {
         text-align: center;
     }
-    .chemistry-is-magic-wrapper{
+
+    .chemistry-is-magic-wrapper {
         width: 100%;
     }
-    .fragrance-note{
+
+    .fragrance-note {
         width: 100%;
         display: inline-flex;
         flex-direction: column;
     }
-    .fragrance-img{
+
+    .fragrance-img {
         width: 100%;
     }
-    #fragrance-chart-img{
+
+    #fragrance-chart-img {
         width: 100%;
     }
-    .fragrance-text{
+
+    .fragrance-text {
         width: 100%;
     }
-    .fragrance-text > span{
+
+    .fragrance-text>span {
         font-size: 35px;
     }
+
     /*Discover Fragrances wrapper media css*/
 
     /*Amazing Facts wrapper media css*/
 
-    .facts-wrapper{
+    .facts-wrapper {
         width: 100%;
         padding: 2%;
         display: inline-flex;
         flex-direction: column;
     }
-    .facts-mains{
+
+    .facts-mains {
         width: 100%;
     }
+
     /*Amazing Facts wrapper media css*/
+
+    /*Header wrapper media css*/
+    .social-media-icons-wrapper {
+        width: 100%;
+        display: inline-flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-top: 20px;
+    }
+
+    .social-media-icons-wrapper>li>a {
+        color: white;
+        font-size: 25px;
+    }
+
+    /*Header wrapper media css*/
 }
