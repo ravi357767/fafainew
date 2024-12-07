@@ -277,4 +277,45 @@
         height: 200px;
     }
     /*Discover Flavour wrapper media css*/
+
+    /*Discover Fragrances wrapper media css*/
+    .collection{
+        width: 100%;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .collection-main{
+        display: inline-flex;
+        flex-direction: column;
+    }
+    #collection-img{
+        width: 100%;
+    }
+    .collection-main > span{
+        text-align: center;
+    }
+    .chemistry-is-magic-wrapper{
+        width: 100%;
+    }
+    .fragrance-note{
+        width: 100%;
+        display: inline-flex;
+        flex-direction: column;
+    }
+    .fragrance-img{
+        width: 100%;
+    }
+    #fragrance-chart-img{
+        width: 100%;
+    }
+    .fragrance-text{
+        width: 100%;
+    }
+    .fragrance-text > span{
+        font-size: 35px;
+    }
+
+    /*Discover Fragrances wrapper media css*/
 }
