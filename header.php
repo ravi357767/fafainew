@@ -6,7 +6,7 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="index.php">
       <img src="./includes/images/logo/cropped-fafai_logo.png" alt="Logo" width="120">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
@@ -14,16 +14,24 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav me-auto">
-          <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">About</a>
+            <a class="nav-link dropdown-toggle" href="aboutus.php" data-bs-toggle="dropdown">About</a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Mission</a></li>
-              <li><a class="dropdown-item" href="#">Vision</a></li>
+              <li><a class="dropdown-item" href="managing_committee.php">Managing Committee</a></li>
             </ul>
           </li>
-          <li class="nav-item"><a class="nav-link" href="#">Alchemy</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">The FAFI Publication</a></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Alchemy</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="discoverFlavours.php">Discover Flavours</a></li>
+              <li><a class="dropdown-item" href="discoverFragrances.php">Discover Fragrances</a></li>
+              <li><a class="dropdown-item" href="amazingFacts.php">Amazing Facts</a></li>
+              <li><a class="dropdown-item" href="#">Explore the Industry</a></li>
+            </ul>
+          </li>
+          <li class="nav-item"><a class="nav-link" href="#">The FAFAI Publication</a></li>
           <li class="nav-item"><a class="nav-link" href="#">Newsroom</a></li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Events</a>
@@ -53,4 +61,7 @@
       <a href="#" class="text-dark mx-3">Registration Addon</a>
     </div>
   </div>
+  <!-- Bootstrap Javascript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<!-- Bootstrap Javascript -->
 </body>
