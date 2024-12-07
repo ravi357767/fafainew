@@ -316,6 +316,18 @@
     .fragrance-text > span{
         font-size: 35px;
     }
-
     /*Discover Fragrances wrapper media css*/
+
+    /*Amazing Facts wrapper media css*/
+
+    .facts-wrapper{
+        width: 100%;
+        padding: 2%;
+        display: inline-flex;
+        flex-direction: column;
+    }
+    .facts-mains{
+        width: 100%;
+    }
+    /*Amazing Facts wrapper media css*/
 }

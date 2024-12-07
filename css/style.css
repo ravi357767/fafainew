@@ -694,3 +694,34 @@ header > .container > nav > ul > li > a{
     font-weight: 700;
     line-height: 65.6px;
 }
+.facts-wrapper{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 5%;
+    /* border: 1px solid red; */
+}
+.facts-mains{
+    width: 50%;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 30px;
+    /* border: 1px solid green; */
+}
+#facts-img{
+    width: 90%;
+    height: 400px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.facts-mains > p{
+    font-family: var(--secondaryfont);
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24.6px;
+    display: inline-flex;
+    justify-items: flex-start;
+}
