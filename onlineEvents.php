@@ -7,7 +7,7 @@ include "header.php";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Online Events</title>
     <?php
     include "links.php";
     ?>
@@ -16,12 +16,12 @@ include "header.php";
 <body>
     
     <div class="page-header">
-        <h2>Discover Flavours</h2>
+        <h2>Online Events</h2>
         <div class="contact-breadcrupms">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Discover Flavours</li>
+                    <li class="breadcrumb-item active" aria-current="page">Online Events</li>
                 </ol>
             </nav>
         </div>
