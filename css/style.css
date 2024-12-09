@@ -82,6 +82,7 @@ header > .container > nav > ul > li > a{
 }
 
 .page-header>h2 {
+    width: 100%;
     font-size: 60px;
     font-family: var(--mainFont);
     font-weight: 700;
@@ -915,4 +916,18 @@ header > .container > nav > ul > li > a{
     font-weight: 700;
     line-height: 65.6px;
     font-family: var(--mainFont);
+}
+.online-events-wrapper{
+    width:100%;
+    padding:2%;
+    display: inline-flex;
+    flex-direction: column;
+}
+.online-events-wrapper > span{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: var(--mainFont);
+    line-height: 65.6px;
+    width: 100%;
+    text-align: center;
 }

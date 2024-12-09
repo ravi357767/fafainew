@@ -125,30 +125,6 @@
         <img id="popoutImage" src="" alt="Popout Image">
     </div>
 
-    <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script>
-        const galleryImages = document.querySelectorAll('.gallery img');
-        const modalImage = document.getElementById('modalImage');
-        const popout = document.getElementById('popout');
-        const popoutImage = document.getElementById('popoutImage');
-
-        // Show image in modal
-        galleryImages.forEach(img => {
-            img.addEventListener('click', () => {
-                modalImage.src = img.src;
-            });
-        });
-
-        // Popout image functionality
-        modalImage.addEventListener('dblclick', () => {
-            popout.style.display = 'flex';
-            popoutImage.src = modalImage.src;
-        });
-
-        popout.addEventListener('click', () => {
-            popout.style.display = 'none';
-        });
-    </script>
+    <script src="./javascript/eventgallery.js"></script>
 </body>
 </html>

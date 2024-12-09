@@ -26,9 +26,9 @@ include "header.php";
 
     <div class="event-highligts-wrapper">
             <span>Dehradun workshop 2024</span>
-            <?php
-                include "eventHighligtsGallery.php";
-            ?>
+                <?php
+                    include "eventHighligtsGallery.php";
+                ?>
     </div>
     
 </body>

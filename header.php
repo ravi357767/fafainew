@@ -39,8 +39,10 @@
             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Events</a>
             <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="eventHighligts.php">Events Highlights</a></li>
-              <li><a class="dropdown-item" href="#">Upcoming</a></li>
-              <li><a class="dropdown-item" href="#">Past Events</a></li>
+              <li><a class="dropdown-item" href="onlineEvents.php">Online Events</a></li>
+              <li><a class="dropdown-item" href="#">Upcoming Seminar</a></li>
+              <li><a class="dropdown-item" href="#">FAFAI Virtual Bazar 2021</a></li>
+              <li><a class="dropdown-item" href="#">FAFAI Virtual Bazar 2022</a></li>
             </ul>
           </li>
         </ul>
