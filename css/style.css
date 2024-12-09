@@ -901,3 +901,18 @@ header > .container > nav > ul > li > a{
     height: 40%;
     border-radius: 5px;
 }
+.event-highligts-wrapper{
+    width: 100%;
+    padding: 2%;
+    /* border: 1px solid blue; */
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.event-highligts-wrapper > span{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 65.6px;
+    font-family: var(--mainFont);
+}

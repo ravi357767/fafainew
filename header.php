@@ -38,6 +38,7 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Events</a>
             <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="eventHighligts.php">Events Highlights</a></li>
               <li><a class="dropdown-item" href="#">Upcoming</a></li>
               <li><a class="dropdown-item" href="#">Past Events</a></li>
             </ul>

@@ -421,6 +421,13 @@
 
     /*Explore the Industry wrapper media css*/
 
+    /*Event Hihjlights wrapper media css*/
+        .event-highligts-wrapper > span{
+            text-align: center;
+            font-family: 25px;
+        } 
+    /*Event Hihjlights wrapper media css*/
+
     /*Header wrapper media css*/
     .social-media-icons-wrapper {
         width: 100%;
