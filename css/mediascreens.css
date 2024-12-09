@@ -401,6 +401,26 @@
 
     /*Amazing Facts wrapper media css*/
 
+    /*Explore the Industry wrapper media css*/
+    .explore-industry-collection {
+        width: 100%;
+        display: inline-flex;
+        flex-direction: column;
+        margin-bottom: 50px;
+    }
+
+    .explore-industry-collection-main>span {
+        width: 100%;
+        text-align: center;
+        font-size: 35px;
+    }
+
+    #explore-collection-img {
+        width: 100%;
+    }
+
+    /*Explore the Industry wrapper media css*/
+
     /*Header wrapper media css*/
     .social-media-icons-wrapper {
         width: 100%;

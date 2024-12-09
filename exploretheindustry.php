@@ -29,23 +29,60 @@ include "header.php";
     <div class="explore-industry-wrapper">
 
         <div class="explore-industry-collection">
-
             <div class="explore-industry-collection-main">
                 <span>Attars</span>
                 <p>Attar became more popular during the rule of Mughals. The main Centre of Attar production is in Kannauj. The Attars are still popular in India and they are consumed in several industries such as Chewing Tobacco, Snuff etc. Presently Indian attars are being exported to Middle East countries.</p>
             </div>
-
             <img src="./includes/images/Explore the Industry/Attar.jpg" alt="Explore Industry Image" id="explore-collection-img">
-
         </div>
 
         <div class="explore-industry-collection">
             <div class="explore-industry-collection-main">
-                <span>Collection</span>
-                <p>Perfume can be made from both natural and synthetic products. Natural products like flowers, grasses, spices, fruits, woods even animal secretion are used to manufacture perfumes. There are over 250.000 plants which produce essential oils used to make perfume. Beaver’s castor and musk from the deer are key ingredients of perfume making. Some of the animal substances are used as fixatives to make the perfume linger longer.</p>
+                <span>Agarbatti</span>
+                <p>From time immemorial dhoop was used in temples, mosques and other holy places for creating fragrant smoke. Agarbatties were also made in some individual houses by making a paste of Sandalwood and rolling it in the form of sticks and dry in sunshine. The professional art of manufacturing Agarbatties appears to be more than a century old.
+
+                    The Agarbatti manufacturing industry has made considerable strides during its existence of over a century. Besides, commanding a vast market in India, the Agarbatties are being exported in the tune of several crores of rupees. It is being exported to almost all countries of the world.</p>
             </div>
-            <img src="./includes/images/DiscoverFragrances/collection.jpg" alt="Collection Image" id="explore-collection-img">
+            <img src="./includes/images/Explore the Industry/agarbatti.jpg" alt="Collection Image" id="explore-collection-img">
         </div>
+
+        <div class="explore-industry-collection">
+            <div class="explore-industry-collection-main">
+                <span>Perfumery Compounds</span>
+                <p>The Fragrance compound industry has made tremendous progress during last seven to eight decades. More than 300 perfume compound manufacturers have sprung up during all these years. The industry is well developed to meet the requirements of the country.</p>
+            </div>
+
+            <img src="./includes/images/Explore the Industry/perfumerycompound.jpg" alt="Collection Image" id="explore-collection-img">
+        </div>
+
+        <div class="explore-industry-collection">
+            <div class="explore-industry-collection-main">
+                <span>Flavour Industry</span>
+                <p>The industry of blending flavours started somewhere around 1930 when some firms ventured to blend flavours in India. During the last 80 years, the flavour industry has made considerable progress. It covers practically all the requirements of flavours of the country in different industries like Pharmaceuticals, Soft Drinks, Liquors, Ice creams, Sweets, Chocolates etc.</p>
+            </div>
+
+            <img src="./includes/images/Explore the Industry/flavourindustry.jpg" alt="Collection Image" id="explore-collection-img">
+        </div>
+
+        <div class="explore-industry-collection">
+            <div class="explore-industry-collection-main">
+                <span>Natural Essential Oils</span>
+                <p>The aromatic chemicals became known to Indian market around 1920. The range being limited to Benzyl Acetate, Terpeniol, Terpenolene, Geraniol and Citronellol, Hydroxy Citronellal, Yara Yara etc.
+                    A considerable progress has been made by various Indian companies by manufacturing and marketing a wide range of aromatic chemicals.The Aromatic Chemical Industry has made considerable progress during a span of last 50 years. It is a matter of pride that almost all the conventional aromatic chemicals are now being manufactured in India.</p>
+            </div>
+
+            <img src="./includes/images/Explore the Industry/EssentialOils.jpg" alt="Collection Image" id="explore-collection-img">
+        </div>
+
+        <div class="explore-industry-collection">
+            <div class="explore-industry-collection-main">
+                <span>Food Products</span>
+                <p>From time immemorial, the household food products are generally being flavoured with spices like Cardamom, Cloves, thyme, aniseed, saffron and nutmeg. The usage of flavours commenced with the introduction of soft drinks and ice creams in 20th century.</p>
+            </div>
+
+            <img src="./includes/images/Explore the Industry/foodProducts.jpg" alt="Collection Image" id="explore-collection-img">
+        </div>
+
     </div>
 
 </body>
