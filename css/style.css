@@ -962,7 +962,7 @@ header > .container > nav > ul > li > a{
 }
 .directory > a > button{
     width: 100%;
-    padding: 5% 1% 5% 1%;
+    padding: 2% 1% 2% 1%;
     background-color: var(--Navbar-Cream);
     font-family: var(--mainFont);
     text-transform: uppercase;
@@ -972,3 +972,17 @@ header > .container > nav > ul > li > a{
     border-radius: 5px;
     margin-bottom: 50px;
 } 
+.virtual-bazaar-2022-wrapper{
+    width: 100%;
+    padding: 2%;
+    /* border: 1px solid red; */
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.virtual-bazaar-2022-wrapper{
+    width: 34%;
+    border: 1px solid green;
+}
