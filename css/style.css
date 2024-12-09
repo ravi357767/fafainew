@@ -931,3 +931,44 @@ header > .container > nav > ul > li > a{
     width: 100%;
     text-align: center;
 }
+.virtual-bazaar-2021-wrapper{
+    width: 100%;
+    padding: 2%;
+    /* border: 1px solid red; */
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.video-wrapper{
+    width: 80%;
+    height: 10%;
+    /* border: 1px solid blueviolet; */
+    padding: 2%;
+}
+.directory{
+    width: 90%;
+    text-align: center;
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+}
+.directory > span{
+    font-size: 30px;
+    font-family: var(--mainFont);
+    line-height: 49.2px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.directory > a > button{
+    width: 100%;
+    padding: 5% 1% 5% 1%;
+    background-color: var(--Navbar-Cream);
+    font-family: var(--mainFont);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 400;
+    font-size: 12px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+} 

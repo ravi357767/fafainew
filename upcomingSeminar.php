@@ -29,6 +29,7 @@ include "header.php";
 
     <div class="online-events-wrapper">
         <span>Coming Soon...</span>
+
     </div>
 
 </body>
