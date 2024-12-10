@@ -51,7 +51,7 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="gallery.php" data-bs-toggle="dropdown">Gallery</a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Library</a></li>
+              <li><a class="dropdown-item" href="library.php">Library</a></li>
             </ul>
           </li>
         </ul>
