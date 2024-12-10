@@ -1,5 +1,5 @@
 <?php
-include "header.php";
+    include "header.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -9,14 +9,14 @@ include "header.php";
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FAFAI Document </title>
     <?php
-    include "links.php";
+        include "links.php";
     ?>
 </head>
 
 <body>
     <!--------------- Main container start --------------->
     <?php
-    include "slidebar.php";
+        include "slidebar.php";
     ?>
     <div class="main-container">
         <div class="pdfbuttons">
@@ -94,7 +94,7 @@ include "header.php";
             </div>
             <!------------------------------------- GOLD SPONSERS WRAPPER ------------------------------------->
 
-            <!------------------------------------- Silver SPONSERS WRAPPER ------------------------------------->
+            <!------------------------------------- SILVER SPONSERS WRAPPER ------------------------------------->
             <div class="main-event-sponser">
                 <h3>Silver Sponsors</h3>
                 <p>We welcome Spring Valley Marketing Pvt. Ltd., United Multichem LLP, Rakesh Sandal Industries, Ajmal & Sons, Alta Oils Ltd., Aurashine Essential Pvt. Ltd., Saptagir Camphor Pvt. Ltd., Petorose Alcones Pvt. Ltd., Privi Speciality Chemicals Ltd., PP Sheth Aromas Pvt. Ltd., S & S Aroma Associates Pvt. Ltd., Plant Lipids Ltd, and Northern Solvents Private Limited. as our Silver Sponsors. Thank you for your support!</p>
@@ -137,7 +137,7 @@ include "header.php";
                 </div>
 
             </div>
-            <!------------------------------------- Silver SPONSERS WRAPPER ------------------------------------->
+            <!------------------------------------- SILVER SPONSERS WRAPPER ------------------------------------->
 
             <!------------------------------------- Lunch/Dinner Sponsor WRAPPER ------------------------------------->
             <div class="main-event-sponser">
@@ -186,14 +186,19 @@ include "header.php";
                 </div>
             </div>
         </div>
-    </div>
 
+        <div class="gallery-slider-wrapper">
+            <?php
+                // include "carousel.php";
+            ?>
+        </div>
+    </div>
     <!--------------- Main container start --------------->
     <script src="./javascript/link.js"></script>
 
-    <?php
-    include "footer.php";
-    ?>
+        <?php
+            include "footer.php";
+        ?>
 </body>
 
 </html>

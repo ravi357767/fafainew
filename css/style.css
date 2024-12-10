@@ -1211,3 +1211,7 @@ footer ul li {
     font-weight: 400;
     font-family: var(--mainFont);
 }
+.gallery-slider-wrapper{
+    width: 100%;
+    padding: 1%;
+}
