@@ -3,6 +3,7 @@ include "header.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,8 +12,9 @@ include "header.php";
     include "links.php";
     ?>
 </head>
+
 <body>
-<div class="page-header">
+    <div class="page-header">
         <h2>Events HighLights</h2>
         <div class="contact-breadcrupms">
             <nav aria-label="breadcrumb">
@@ -25,11 +27,14 @@ include "header.php";
     </div>
 
     <div class="event-highligts-wrapper">
-            <span>Dehradun workshop 2024</span>
-                <?php
-                    include "./includes/gallery/eventHighligtsGallery.php";
-                ?>
+        <span>Dehradun workshop 2024</span>
+        <?php
+        include "./includes/gallery/eventHighligtsGallery.php";
+        ?>
     </div>
-    
+    <?php
+    include "footer.php";
+    ?>
 </body>
+
 </html>

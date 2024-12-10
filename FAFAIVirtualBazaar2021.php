@@ -36,6 +36,9 @@ include "header.php";
             <a href="./includes/pdfs/FAFAI_Virtual_Bazaar_2021_Exhibitors_Directory.pdf" target="_blank"><button>Download fafai Virtual bazaar : Exhibitor directory 2021</button></a>
         </div>
     </div>
+    <?php
+    include "footer.php";
+    ?>
 </body>
 
 </html>

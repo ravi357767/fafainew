@@ -1,26 +1,28 @@
 <?php
-    include "header.php";
+include "header.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About</title>
     <?php
-        include "links.php";
+    include "links.php";
     ?>
 </head>
+
 <body>
-<div class="page-header">
+    <div class="page-header">
         <h2>About</h2>
         <div class="contact-breadcrupms">
-        <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="#">Home</a></li>
-        <li class="breadcrumb-item active" aria-current="page">About</li>
-        </ol>
-        </nav>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">About</li>
+                </ol>
+            </nav>
             <!-- <a href="#">Home</a>
             <i class="fa-solid fa-right-long"></i>
             <a href="#">Contact</a> -->
@@ -30,8 +32,8 @@
     <div class="about-wrapper">
 
         <div class="about-image-wrapper">
-                <img src="./includes/images/journey1-1.jpg" alt="" id="about-img">
-                <img src="./includes/images/journey2-1.jpg" alt="" id="about-img">
+            <img src="./includes/images/journey1-1.jpg" alt="" id="about-img">
+            <img src="./includes/images/journey2-1.jpg" alt="" id="about-img">
         </div>
 
         <div class="about-text">
@@ -76,5 +78,9 @@
 
     </div>
     <script src="./javascript/link.js"></script>
+    <?php
+    include "footer.php";
+    ?>
 </body>
+
 </html>

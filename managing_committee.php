@@ -702,7 +702,7 @@ include "header.php";
                         </a></i></span>
                 <hr>
                 <span><i class="fa-solid fa-envelope"><a href="mailto:rck@ckc.in">
-                rck@ckc.in</a></i></span>
+                            rck@ckc.in</a></i></span>
                 <hr>
                 <span><i class="fa-solid fa-phone"><a href="tel:9831024007">9831024007</a></i></span>
                 <hr>
@@ -714,6 +714,9 @@ include "header.php";
     <!------------------------- single person wrapper -------------------------------->
 
     <!------------------------------- O-OPTED MEMBERS ------------------------------------------->
-
+    <?php
+    include "footer.php";
+    ?>
 </body>
+
 </html>

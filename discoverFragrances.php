@@ -141,6 +141,9 @@ include "header.php";
         </div>
     </div>
     <script src="./javascript/link.js"></script>
+    <?php
+    include "footer.php";
+    ?>
 </body>
 
 </html>

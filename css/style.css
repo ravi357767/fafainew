@@ -17,28 +17,6 @@
     --Light-Brown: #b6713e;
     --bgcolor: #fcf7ee;
 }
-
-/* header{
-    width: 100%;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    background-color: var(--Header-dark);
-}
-header > .container {
-    display:flex;
-    flex-direction: row;
-}
-header > .container > nav > ul > li{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-#company-logo{
-    width: 100%;
-}
-header > .container > nav > ul > li > a{
-    color: white;
-} */
 .subheader a:hover {
     text-decoration: underline;
 }
@@ -88,17 +66,6 @@ header > .container > nav > ul > li > a{
     font-weight: 700;
     margin-top: 30px;
 }
-
-/* .page-header > .contact-breadcrupms > a{
-    font-size: 13px;
-    font-family: var(--mainFont);
-    color: black;
-    text-decoration: none;
-    padding:5%;
-    text-transform: uppercase;
-    font-weight: 300;
-    letter-spacing: 1.8px;
-} */
 .page-header>.contact-breadcrupms>a:hover {
     color: var(--Light-Brown);
     font-weight: bold;

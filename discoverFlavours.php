@@ -3,16 +3,18 @@ include "header.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Discover Flavours</title>
     <?php
-        include "links.php";
+    include "links.php";
     ?>
 </head>
+
 <body>
-<div class="page-header">
+    <div class="page-header">
         <h2>Discover Flavours</h2>
         <div class="contact-breadcrupms">
             <nav aria-label="breadcrumb">
@@ -56,11 +58,11 @@ include "header.php";
                 </div>
 
                 <div class="discover-flavour-main">
-                        <span>Fruit Flavouring</span>
+                    <span>Fruit Flavouring</span>
 
-                        <img src="./includes/images/DiscoverFlavours/Fruit Flavouring.jpg" alt="Essential Oils Image" id="discover-flavour-main-img">
-                        
-                        <p>Fresh fruits are expressed, concentrated and distilled to give out the sweet scented flavouring. The finished product is generally has between 18 to 22 percent of alcohol in order to prevent fermentation.</p>
+                    <img src="./includes/images/DiscoverFlavours/Fruit Flavouring.jpg" alt="Essential Oils Image" id="discover-flavour-main-img">
+
+                    <p>Fresh fruits are expressed, concentrated and distilled to give out the sweet scented flavouring. The finished product is generally has between 18 to 22 percent of alcohol in order to prevent fermentation.</p>
                 </div>
 
 
@@ -70,12 +72,16 @@ include "header.php";
                     <img src="./includes/images/DiscoverFlavours/Artificial Flavouring.jpg" alt="Essential Oils Image" id="discover-flavour-main-img">
 
                     <p>A bit of chemistry is used to imitate and create artificial flavouring. Synthetic flavouring agents are mixed with alcohol, glycerol or propylene glycol to formulate the essence or flavourings.
-                    Vanilla, lemon, lime, banana, cherry, butterscotch, brandy and rum</p>
+                        Vanilla, lemon, lime, banana, cherry, butterscotch, brandy and rum</p>
                 </div>
 
             </div>
         </div>
     </div>
     <script src="./javascript/link.js"></script>
+    <?php
+    include "footer.php";
+    ?>
 </body>
+
 </html>

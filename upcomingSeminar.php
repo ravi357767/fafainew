@@ -14,7 +14,7 @@ include "header.php";
 </head>
 
 <body>
-    
+
     <div class="page-header">
         <h2>Upcoming Seminar</h2>
         <div class="contact-breadcrupms">
@@ -31,7 +31,9 @@ include "header.php";
         <span>Coming Soon...</span>
 
     </div>
-
+    <?php
+    include "footer.php";
+    ?>
 </body>
 
 </html>

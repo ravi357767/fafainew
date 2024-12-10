@@ -35,6 +35,9 @@ include "header.php";
         include "./includes/gallery/gallery.php";
         ?>
     </div>
+    <?php
+    include "footer.php";
+    ?>
 </body>
 
 </html>

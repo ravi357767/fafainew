@@ -27,10 +27,13 @@ include "header.php";
     </div>
     <div class="library-class">
         <div class="pdf">
-        <iframe src="./includes/pdfs/Library_Books_List.pdf" height="100%" width="100%" title="Iframe Example"></iframe>
+            <iframe src="./includes/pdfs/Library_Books_List.pdf" height="100%" width="100%" title="Iframe Example"></iframe>
 
         </div>
     </div>
+    <?php
+    include "footer.php";
+    ?>
 </body>
 
 </html>

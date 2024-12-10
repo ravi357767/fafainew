@@ -69,5 +69,8 @@
        </div>
         <!-- google maps wrapper  -->
 
+        <?php
+            include "footer.php";
+        ?>
 </body>
 </html>
