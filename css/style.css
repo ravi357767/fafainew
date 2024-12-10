@@ -17,6 +17,75 @@
     --Light-Brown: #b6713e;
     --bgcolor: #fcf7ee;
 }
+/*************************************** DAMINI CSS ****************************************/
+
+.container > a {
+    text-decoration: none;
+}
+.social-icons a {
+    font-size: 20px;
+    transition: color 0.3s;
+}
+footer ul {
+    padding-left: 0;
+}
+footer ul li {
+    margin-bottom: 10px;
+}
+.social-icons{
+    width: 50%;
+    padding: 10px;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.social-icons > a{
+    border: 1px solid var(--Navbar-Cream);
+    padding: 10px;
+    border-radius: 100%;
+    background-color: var(--Navbar-Cream);
+}
+.social-icons > a > i{
+    color: rgb(39, 39, 39);
+}
+.social-icons > a:hover{
+    border: 1px solid var(--Light-Brown);
+    background-color: var(--Light-Brown);
+    transition: all;
+    transition-duration: 0.3s;
+}
+.social-icons > a >i:hover{
+    background-color: var(--Light-Brown);
+    transition: all;
+    color: #ecdec1;
+    transition-duration: 0.3s;
+}
+.d-block{
+    height: 500px;
+    filter: brightness(49%);
+}
+.caption > strong{
+    font-size: 35px;
+}
+.caption > span{
+    font-size: 17px;
+}
+.caption{
+    position: absolute;
+    bottom: 1.25rem;
+    left: 10%;
+    padding-top: 1.25rem;
+    padding-bottom: 12.25rem;
+    color: #fff;
+}
+#slider-banner-img{
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: scroll;
+}
+
+/*************************************** DAMINI CSS ****************************************/
 .subheader a:hover {
     text-decoration: underline;
 }
@@ -1063,5 +1132,82 @@
     line-height: 24.6px;
     font-weight: 600;
     color: #1f9f54;
+    font-family: var(--mainFont);
+}
+.welcome-to-fafai{
+    width: 100%;
+    padding: 1%;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+.welcome-to-fafai > span{
+    font-family: var(--mainFont);
+    line-height: 57.4px;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.welcome-to-fafai > p{
+    width: 80%;
+    text-align: center;
+    font-family: var(--mainFont);
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.fragrance-flavours{
+    margin-top: 50px;
+    width: 100%;
+    padding: 2%;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fragrance-flavours > p{
+    color: #259a55;
+    font-size: 12px;
+    line-height: 19.68px;
+    font-weight: 700;
+    font-family: var(--mainFont);
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.fragrance-flavours > span{
+    font-size: 35px;
+    line-height: 57.4px;
+    font-weight: 700;
+    font-family: var(--mainFont);
+}
+.fragrance-flavours-wrapper{
+    width: 90%;
+    padding: 1%;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.fragrance-flavours-main{
+    width: 33%;
+    padding: 5px;
+    border: 1px solid var(--Light-Brown);
+    border-radius: 5px;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.fragrance-flavours-main > span{
+    font-size: 20px;
+    line-height: 32.8px;
+    font-weight: 700;
+    font-family: var(--mainFont);
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.fragrance-flavours-main > img{
+    border-radius: 4px;
+}
+.fragrance-flavours-main > p{
+    font-size: 16px;
+    line-height: 26.24px;
+    font-weight: 400;
     font-family: var(--mainFont);
 }
