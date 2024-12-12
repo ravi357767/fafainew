@@ -36,7 +36,7 @@
         </div>
       </div>
       <div class="text-center mt-3">
-        <small>&copy;Copyright 2024 FAFAI Design & Developed by ChoreDigital Communication</small>
+        <small>&copy;Copyright 2024 FAFAI Design & Developed by <a href="https://chorevirtual.com/" style="text-decoration: none; color:white;" target="_blank">ChoreDigital Communication</a></small>
       </div>
     </div>
   </footer>
