@@ -30,7 +30,7 @@ include "header.php";
         <div class="publication">
             <p>Discover</p>
             <span>The FAFAI Publication</span>
-            <a href="#"><button>Indian Fragrances and Flavours Reference List of Ingredients</button></a>
+            <a href="IndianFragrancesandFlavorsReferenceListofIngredients.php"><button>Indian Fragrances and Flavours Reference List of Ingredients</button></a>
         </div>
 
         <div class="publications-pdf-wrapper">

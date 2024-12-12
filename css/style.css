@@ -125,21 +125,16 @@ footer ul li {
 
 .page-header {
     width: 100%;
-    padding: 8% 35% 5% 35%;
+    /* padding: 8% 35% 5% 35%; */
     background-color: var(--bgcolor);
 }
 
 .page-header {
+    width: 100%;
     display: inline-flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: scroll;
-    background-image: url(/includes/images/efc2d04b47.jpg);
-    /* opacity: 0.5; */
 }
 
 .page-header>h2 {
@@ -900,18 +895,9 @@ footer ul li {
 }
 
 .social-media-icons-wrapper>li>a {
-    color: rgb(54, 54, 54);
+    color: rgb(230, 230, 230);
     font-size: 25px;
     text-align: center;
-}
-
-.social-media-icons-wrapper>li {
-    border: 1px solid var(--Navbar-Cream);
-    background-color: var(--Navbar-Cream);
-    border-radius: 100%;
-    padding: 15px;
-    height: 100%;
-    width: 100%;
 }
 
 .explore-industry-wrapper {
@@ -1364,4 +1350,45 @@ footer ul li {
     flex-direction: row;
     justify-content: space-between;
     /* border: 1px solid blue; */
+}
+#edition-Pdf-Cover-Image{
+    width: 100%;
+}
+.pdf-edition-main{
+    width: 100%;
+    padding: 5%;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pdf-edition-wrapper{
+    display: inline-flex;
+    flex-direction: row;
+
+}
+.pdf-edition-wrapper-main{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    text-align: start;
+    padding: 5%;
+}
+.pdf-edition-wrapper-main > span{
+    font-size: 30px;
+    line-height: 49.2px;
+    font-weight: 600;
+    font-family: var(--mainFont);
+}
+.pdf-edition-wrapper-main > p{
+    font-size: 18px;
+    line-height: 29.52px;
+    font-weight: 400;
+    font-family: var(--mainFont);
+}
+#Media-Coverages{
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: var(--mainFont);
+    line-height: 49.2px;
+    font-weight: 700;
 }

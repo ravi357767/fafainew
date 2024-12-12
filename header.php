@@ -34,6 +34,7 @@
               <li><a class="dropdown-item" href="exploretheindustry.php">Explore the Industry</a></li>
             </ul>
           </li>
+          
           <li class="nav-item"><a class="nav-link" href="theFAFAIpublication.php">The FAFAI Publication</a></li>
           <li class="nav-item"><a class="nav-link" href="pressReleases.php">Newsroom</a></li>
 
@@ -64,11 +65,11 @@
         </ul> -->
 
         <div class="social-media-icons-wrapper">
-          <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-          <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
-          <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
-          <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
-          <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
+          <li><a href="https://www.instagram.com/fafai.social/"><i class="fa-brands fa-instagram"></i></a></li>
+          <li><a href="https://www.linkedin.com/in/fragrances-and-flavours-association-of-india-fafai-791687326"><i class="fa-brands fa-linkedin"></i></a></li>
+          <li><a href="https://www.facebook.com/fafai.social/?ref=br_rs"><i class="fa-brands fa-facebook"></i></a></li>
+          <li><a href="https://www.youtube.com/channel/UCd9mEUvZsMqW5qMxRrVEoyQ"><i class="fa-brands fa-youtube"></i></a></li>
+          <li><a href="https://x.com/FAFAI1948"><i class="fa-brands fa-x-twitter"></i></a></li>
         </div>
       </div>
     </div>
@@ -77,11 +78,11 @@
   <!-- Subheader -->
   <div class="subheader text-center">
     <div class="container">
-      <a href="https://fafai2025.nevendo.in/stall" class="text-dark mx-3">Stall Booking</a>
-      <a href="https://fafai.in/wp-content/uploads/2024/11/FAFAI-14-11-2024-FB.pdf" class="text-dark mx-3">Stall Layout</a>
-      <a href="#" class="text-dark mx-3">FAFAI Member/Non-Member Registration</a>
-      <a href="#" class="text-dark mx-3">FAFAI Overseas Registration</a>
-      <a href="#" class="text-dark mx-3">Registration Addon</a>
+      <a href="https://fafai2025.nevendo.in/stall" class="text-dark mx-3" target="_blank">Stall Booking</a>
+      <a href="#" class="text-dark mx-3" target="_blank">Stall Layout</a>
+      <a href="https://fafai2025.nevendo.in/" class="text-dark mx-3" target="_blank">FAFAI Member/Non-Member Registration</a>
+      <a href="https://fafai2025.nevendo.in/overseas" class="text-dark mx-3" target="_blank">FAFAI Overseas Registration</a>
+      <a href="https://fafai2025.nevendo.in/addon_registration" class="text-dark mx-3" target="_blank">Registration Addon</a>
     </div>
   </div>
 
