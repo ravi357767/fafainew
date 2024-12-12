@@ -50,12 +50,12 @@ include "header.php";
             </div>
 
             <div class="publication-pdf-main">
-                <a href="./includes/pdfs/The FAFAI Publication/FAFAI_Journal_oct_2020_Dec_2021.pdf" target="_blank"><img src="./includes/pdfs/The FAFAI Publication/The-FAFAI-Journal-2019_thumbnail.jpg" alt="Publication PDF Cover Image" id="publication-pdf-cover-image"></a>
+                <a href="theFAFAIjournal2019.php" target="_blank"><img src="./includes/pdfs/The FAFAI Publication/The-FAFAI-Journal-2019_thumbnail.jpg" alt="Publication PDF Cover Image" id="publication-pdf-cover-image"></a>
                 <span>Discover journal 2021</span>
             </div>
 
             <div class="publication-pdf-main">
-                <a href="./includes/pdfs/The FAFAI Publication/FAFAI_Journal_oct_2020_Dec_2021.pdf" target="_blank"><img src="./includes/pdfs/The FAFAI Publication/The-FAFAI-Journal-2018_thumbnail.jpg" alt="Publication PDF Cover Image" id="publication-pdf-cover-image"></a>
+                <a href="theFAFAIjournal2018.php" target="_blank"><img src="./includes/pdfs/The FAFAI Publication/The-FAFAI-Journal-2018_thumbnail.jpg" alt="Publication PDF Cover Image" id="publication-pdf-cover-image"></a>
                 <span>Discover journal 2021</span>
             </div> 
         </div>

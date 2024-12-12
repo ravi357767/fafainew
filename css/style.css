@@ -510,6 +510,7 @@ footer ul li {
     display: inline-flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 .sponsers-wrapper {
@@ -541,6 +542,8 @@ footer ul li {
 .main-event-sponser {
     width: 100%;
     padding: 10px;
+    display: inline-flex;
+    flex-direction: column;
     /* border: 1px solid green; */
 }
 
@@ -562,8 +565,9 @@ footer ul li {
 }
 
 #maine-sponser-img {
-    height: 600px;
-    width: 500px;
+    /* height: 600px;
+    width: 500px; */
+    width: 100%;
 }
 
 .sponsers-gallery {
@@ -1209,7 +1213,7 @@ footer ul li {
 }
 
 .fragrance-flavours>span {
-    font-size: 35px;
+    font-size: 30px;
     line-height: 57.4px;
     font-weight: 700;
     font-family: var(--mainFont);
@@ -1231,6 +1235,7 @@ footer ul li {
     display: inline-flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
 }
 
 .fragrance-flavours-main>span {
@@ -1356,6 +1361,7 @@ footer ul li {
 }
 #edition-Pdf-Cover-Image{
     width: 100%;
+    margin-bottom: 20px;
 }
 .pdf-edition-main{
     width: 100%;

@@ -140,8 +140,50 @@
     }
 
     /*Discover Flavour wrapper media css*/
-
+    .maine-sponser-img{
+        height: 300px;
+        width: 250px;
+    }
+    .main-event-sponser {
+        width: 100%;
+        display: inline-flex;
+        flex-direction: column;
+    }
+    .sponsers-wrapper{
+        width: 100%;
+        display: inline-flex;
+        flex-direction: column;
+    }
+    .sponsers-gallery {
+        display: inline-flex;
+        flex-direction: column;
+        flex-wrap: nowrap; 
+    }
+    .fragrance-flavours {
+        margin-top: 50px;
+        width: 100%;
+        display: inline-flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .fragrance-flavours-main {
+        width: 100%;
+    }
+    .fragrance-flavours-wrapper {
+        width: 100%;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-bottom: 10px;
+    }
+    .fragrance-flavours-main{
+        width: 100%;
+    }
+    .welcome-to-fafai > img{
+        width:100%
+    }
 }
+
 
 /*************************************************Break***********************************************************/
 
@@ -443,4 +485,118 @@
     }
 
     /*Header wrapper media css*/
+    .maine-sponser-img{
+        height: 300px;
+        width: 250px;
+    }
+    .main-event-sponser {
+        width: 100%;
+        display: inline-flex;
+        flex-direction: column;
+    }
+    .sponsers-wrapper{
+        width: 100%;
+        display: inline-flex;
+        flex-direction: column;
+    }
+    .sponsers-gallery {
+        display: inline-flex;
+        flex-direction: column;
+        flex-wrap: nowrap; 
+    }
+    .fragrance-flavours {
+        margin-top: 50px;
+        width: 100%;
+        display: inline-flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .fragrance-flavours-main {
+        width: 100%;
+    }
+    .fragrance-flavours-wrapper {
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .caption>strong {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    
+    .caption>span {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    
+    .caption {
+       margin-bottom: 20px;
+    }
+    
+    #slider-banner-img {
+        width: 100%;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: scroll;
+    }
+    .publication>span {
+        font-size:25px;
+        font-weight: 700;
+        font-family: var(--mainFont);
+        line-height:57.4px;
+        margin-bottom: 20px;
+    }
+    .publications-pdf-wrapper{
+        width: 90%;
+        padding: 5%;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .publication-pdf-main{
+        width: 100%;
+        border: 1px solid var(--Light-Brown);
+        padding: 1%;
+        border-radius: 10px;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: first baseline;
+        margin-bottom: 50px;
+    }
+    .journal2019-wrapper{
+        width: 100%;
+        padding: 2% 5% 2% 5%;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-bottom: 20px;
+        align-items: center;
+        /* border: 1px solid blue; */
+    }
+    .press-release-main {
+        width: 100%;
+        /* border: 1px solid blue; */
+        padding: 2%;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
+    .press-release-article-wrapper {
+        width: 100%;
+    }
+    .video-wrapper {
+        width: 100%;
+    }
+    .virtual-bazaar-inner {
+        width: 100%;
+        padding: 1%;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .virtual-bazaar-2022-main {
+        width: 100%;
+    }
 }

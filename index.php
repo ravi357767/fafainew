@@ -184,6 +184,7 @@
                     <span>Amazing Facts</span>
                     <p>Egyptians believed perfumes were the sweat of gods and were the first to develop the art of Perfume</p>
                 </div>
+                
             </div>
         </div>
 
