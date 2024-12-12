@@ -34,7 +34,7 @@
               <li><a class="dropdown-item" href="exploretheindustry.php">Explore the Industry</a></li>
             </ul>
           </li>
-          
+
           <li class="nav-item"><a class="nav-link" href="theFAFAIpublication.php">The FAFAI Publication</a></li>
           <li class="nav-item"><a class="nav-link" href="pressReleases.php">Newsroom</a></li>
 
@@ -79,9 +79,15 @@
   <div class="subheader text-center">
     <div class="container">
       <a href="https://fafai2025.nevendo.in/stall" class="text-dark mx-3" target="_blank">Stall Booking</a>
-      <a href="#" class="text-dark mx-3" target="_blank">Stall Layout</a>
+
+      <a href="./includes/pdfs/FAFAI-14-11-2024-FB (1).pdf" class="text-dark mx-3" target="_blank">Stall Layout</a>
+
+      <a href="./includes/pdfs/FAFAI-2025-DESIGN-GUIDELINES-UPDATED22.11.2024.pdf" class="text-dark mx-3" target="_blank">Stall Design & Construction Guideline</a>
+
       <a href="https://fafai2025.nevendo.in/" class="text-dark mx-3" target="_blank">FAFAI Member/Non-Member Registration</a>
+
       <a href="https://fafai2025.nevendo.in/overseas" class="text-dark mx-3" target="_blank">FAFAI Overseas Registration</a>
+
       <a href="https://fafai2025.nevendo.in/addon_registration" class="text-dark mx-3" target="_blank">Registration Addon</a>
     </div>
   </div>
