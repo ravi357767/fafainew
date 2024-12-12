@@ -17,60 +17,73 @@
     --Light-Brown: #b6713e;
     --bgcolor: #fcf7ee;
 }
+
 /*************************************** DAMINI CSS ****************************************/
 
-.container > a {
+.container>a {
     text-decoration: none;
 }
+
 .social-icons a {
     font-size: 20px;
     transition: color 0.3s;
 }
+
 footer ul {
     padding-left: 0;
 }
+
 footer ul li {
     margin-bottom: 10px;
 }
-.social-icons{
+
+.social-icons {
     width: 50%;
     padding: 10px;
     display: inline-flex;
     flex-direction: row;
     justify-content: space-between;
 }
-.social-icons > a{
+
+.social-icons>a {
     border: 1px solid var(--Navbar-Cream);
     padding: 10px;
     border-radius: 100%;
     background-color: var(--Navbar-Cream);
 }
-.social-icons > a > i{
+
+.social-icons>a>i {
     color: rgb(39, 39, 39);
 }
-.social-icons > a:hover{
+
+.social-icons>a:hover {
     border: 1px solid var(--Light-Brown);
     background-color: var(--Light-Brown);
     transition: all;
     transition-duration: 0.3s;
 }
-.social-icons > a >i:hover{
+
+.social-icons>a>i:hover {
     background-color: var(--Light-Brown);
     transition: all;
     color: #ecdec1;
     transition-duration: 0.3s;
 }
-.d-block{
+
+.d-block {
     height: 500px;
     filter: brightness(49%);
 }
-.caption > strong{
+
+.caption>strong {
     font-size: 35px;
 }
-.caption > span{
+
+.caption>span {
     font-size: 17px;
 }
-.caption{
+
+.caption {
     position: absolute;
     bottom: 1.25rem;
     left: 10%;
@@ -78,7 +91,8 @@ footer ul li {
     padding-bottom: 12.25rem;
     color: #fff;
 }
-#slider-banner-img{
+
+#slider-banner-img {
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -135,6 +149,7 @@ footer ul li {
     font-weight: 700;
     margin-top: 30px;
 }
+
 .page-header>.contact-breadcrupms>a:hover {
     color: var(--Light-Brown);
     font-weight: bold;
@@ -938,7 +953,8 @@ footer ul li {
     height: 40%;
     border-radius: 5px;
 }
-.event-highligts-wrapper{
+
+.event-highligts-wrapper {
     width: 100%;
     padding: 2%;
     /* border: 1px solid blue; */
@@ -947,19 +963,22 @@ footer ul li {
     justify-content: center;
     align-items: center;
 }
-.event-highligts-wrapper > span{
+
+.event-highligts-wrapper>span {
     font-size: 40px;
     font-weight: 700;
     line-height: 65.6px;
     font-family: var(--mainFont);
 }
-.online-events-wrapper{
-    width:100%;
-    padding:2%;
+
+.online-events-wrapper {
+    width: 100%;
+    padding: 2%;
     display: inline-flex;
     flex-direction: column;
 }
-.online-events-wrapper > span{
+
+.online-events-wrapper>span {
     font-size: 40px;
     font-weight: 700;
     font-family: var(--mainFont);
@@ -967,7 +986,8 @@ footer ul li {
     width: 100%;
     text-align: center;
 }
-.virtual-bazaar-2021-wrapper{
+
+.virtual-bazaar-2021-wrapper {
     width: 100%;
     padding: 2%;
     /* border: 1px solid red; */
@@ -976,27 +996,31 @@ footer ul li {
     justify-content: center;
     align-items: center;
 }
-.video-wrapper{
+
+.video-wrapper {
     width: 80%;
     height: 10%;
     /* border: 1px solid blueviolet; */
     padding: 2%;
 }
-.directory{
+
+.directory {
     width: 100%;
     text-align: center;
     align-items: center;
     display: inline-flex;
     flex-direction: column;
 }
-.directory > span{
+
+.directory>span {
     font-size: 30px;
     font-family: var(--mainFont);
     line-height: 49.2px;
     font-weight: 500;
     margin-bottom: 50px;
 }
-.directory > a > button{
+
+.directory>a>button {
     width: 100%;
     padding: 2% 1% 2% 1%;
     background-color: var(--Navbar-Cream);
@@ -1007,8 +1031,9 @@ footer ul li {
     font-size: 12px;
     border-radius: 5px;
     margin-bottom: 50px;
-} 
-.virtual-bazaar-2022-wrapper{
+}
+
+.virtual-bazaar-2022-wrapper {
     width: 100%;
     padding: 2%;
     /* border: 1px solid red; */
@@ -1017,7 +1042,8 @@ footer ul li {
     justify-content: center;
     align-items: center;
 }
-.virtual-bazaar-inner{
+
+.virtual-bazaar-inner {
     width: 100%;
     padding: 1%;
     display: inline-flex;
@@ -1025,26 +1051,30 @@ footer ul li {
     flex-wrap: wrap;
     justify-content: space-between;
 }
-.virtual-bazaar-2022-main{
+
+.virtual-bazaar-2022-main {
     width: 33%;
     /* border: 1px solid green; */
     padding: 2%;
     margin-bottom: 2%;
 }
-.gallery-wrapper{
+
+.gallery-wrapper {
     width: 100%;
     padding: 2%;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.gallery-wrapper > span{
+
+.gallery-wrapper>span {
     font-size: 35px;
     font-family: var(--mainFont);
     line-height: 57.4px;
     font-weight: 700;
 }
-.gallery-wrapper > p{
+
+.gallery-wrapper>p {
     font-size: 15px;
     font-family: var(--mainFont);
     line-height: 24.6px;
@@ -1052,11 +1082,13 @@ footer ul li {
     letter-spacing: 5px;
     text-transform: capitalize;
 }
-.gallery-wrapper-main{
+
+.gallery-wrapper-main {
     width: 100%;
     padding: 2%;
 }
-.library-class{
+
+.library-class {
     width: 100%;
     padding: 5%;
     display: inline-flex;
@@ -1064,18 +1096,21 @@ footer ul li {
     justify-content: center;
     align-items: center;
 }
-.pdf{
+
+.pdf {
     width: 100%;
     height: 700px;
 }
-.press-release-wrapper{
+
+.press-release-wrapper {
     width: 100%;
     padding: 2%;
     /* border: 1px solid green; */
     display: inline-flex;
     flex-direction: column;
 }
-.press-release-wrapper > span{
+
+.press-release-wrapper>span {
     width: 100%;
     font-family: var(--mainFont);
     font-size: 30px;
@@ -1084,7 +1119,8 @@ footer ul li {
     text-align: center;
     margin-bottom: 20px;
 }
-.press-release-wrapper > p{
+
+.press-release-wrapper>p {
     width: 100%;
     font-size: 15px;
     line-height: 24.6px;
@@ -1092,7 +1128,8 @@ footer ul li {
     font-family: var(--mainFont);
     text-align: center;
 }
-.press-release-main{
+
+.press-release-main {
     width: 100%;
     /* border: 1px solid blue; */
     padding: 2%;
@@ -1102,7 +1139,8 @@ footer ul li {
     justify-content: space-between;
     margin-bottom: 50px;
 }
-.press-release-article-wrapper{
+
+.press-release-article-wrapper {
     width: 30%;
     padding: 1%;
     border-radius: 5px;
@@ -1113,11 +1151,13 @@ footer ul li {
     justify-content: space-between;
     margin-bottom: 20px;
 }
-#Press-release-article-img{
+
+#Press-release-article-img {
     width: 100%;
     margin-bottom: 10px;
 }
-.press-release-article-wrapper > a{
+
+.press-release-article-wrapper>a {
     width: 100%;
     font-size: 15px;
     line-height: 24.6px;
@@ -1127,35 +1167,40 @@ footer ul li {
     font-family: var(--mainFont);
     margin-bottom: 10px;
 }
-.press-release-article-wrapper > p{
+
+.press-release-article-wrapper>p {
     font-size: 15px;
     line-height: 24.6px;
     font-weight: 600;
     color: #1f9f54;
     font-family: var(--mainFont);
 }
-.welcome-to-fafai{
+
+.welcome-to-fafai {
     width: 100%;
     padding: 1%;
     display: inline-flex;
     flex-direction: column;
     align-items: center;
 }
-.welcome-to-fafai > span{
+
+.welcome-to-fafai>span {
     font-family: var(--mainFont);
     line-height: 57.4px;
     font-weight: 700;
     font-size: 35px;
     margin-bottom: 30px;
 }
-.welcome-to-fafai > p{
+
+.welcome-to-fafai>p {
     width: 80%;
     text-align: center;
     font-family: var(--mainFont);
     font-weight: 400;
     margin-bottom: 40px;
 }
-.fragrance-flavours{
+
+.fragrance-flavours {
     margin-top: 50px;
     width: 100%;
     padding: 2%;
@@ -1163,7 +1208,8 @@ footer ul li {
     flex-direction: column;
     align-items: center;
 }
-.fragrance-flavours > p{
+
+.fragrance-flavours>p {
     color: #259a55;
     font-size: 12px;
     line-height: 19.68px;
@@ -1172,20 +1218,23 @@ footer ul li {
     letter-spacing: 8px;
     text-transform: uppercase;
 }
-.fragrance-flavours > span{
+
+.fragrance-flavours>span {
     font-size: 35px;
     line-height: 57.4px;
     font-weight: 700;
     font-family: var(--mainFont);
 }
-.fragrance-flavours-wrapper{
+
+.fragrance-flavours-wrapper {
     width: 90%;
     padding: 1%;
     display: inline-flex;
     flex-direction: row;
     justify-content: space-between;
 }
-.fragrance-flavours-main{
+
+.fragrance-flavours-main {
     width: 33%;
     padding: 5px;
     border: 1px solid var(--Light-Brown);
@@ -1194,7 +1243,8 @@ footer ul li {
     flex-direction: column;
     justify-content: space-between;
 }
-.fragrance-flavours-main > span{
+
+.fragrance-flavours-main>span {
     font-size: 20px;
     line-height: 32.8px;
     font-weight: 700;
@@ -1202,16 +1252,116 @@ footer ul li {
     margin-bottom: 15px;
     margin-top: 15px;
 }
-.fragrance-flavours-main > img{
+
+.fragrance-flavours-main>img {
     border-radius: 4px;
 }
-.fragrance-flavours-main > p{
+
+.fragrance-flavours-main>p {
     font-size: 16px;
     line-height: 26.24px;
     font-weight: 400;
     font-family: var(--mainFont);
 }
-.gallery-slider-wrapper{
+
+.gallery-slider-wrapper {
     width: 100%;
     padding: 1%;
+}
+.publication-wrapper{
+    width: 100%;
+    padding: 2%;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.publication {
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.publication>p {
+    font-size:15px;
+    font-weight: 700;
+    font-family: var(--mainFont);
+    letter-spacing: 2.9px;
+}
+.publication>span {
+    font-size:35px;
+    font-weight: 700;
+    font-family: var(--mainFont);
+    line-height:57.4px;
+    margin-bottom: 20px;
+}
+.publication> a {
+    align-items: center;
+}
+.publication > a > button{
+    width: 100%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    padding-right: 5%;
+    padding-left: 5%;
+    background-color: var(--Navbar-Cream);
+    border: 1px solid var(--Navbar-Cream);
+    font-family: var(--mainFont);
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing:2.29041px;
+    text-transform: uppercase;
+}
+.publication > a > button:hover{
+    border: 1px solid var(--Light-Brown);
+    transition: ease-in-out;
+    transition-duration: 0.3s;
+}
+.publications-pdf-wrapper{
+    width: 90%;
+    padding: 5%;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.publication-pdf-main{
+    width: 40%;
+    border: 1px solid var(--Light-Brown);
+    padding: 1%;
+    border-radius: 10px;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: first baseline;
+    margin-bottom: 50px;
+}
+#publication-pdf-cover-image{
+    width: 100%;
+    border: 1px solid white;
+}
+.publication-pdf-main > a > img:hover{
+    opacity: 1.0;
+}
+#publication-pdf-cover-image:hover{
+    width: 100%;
+    border-radius: 10px;
+    border: 1px dashed var(--Light-Brown);
+    transition: ease-in-out;
+    transition-duration: 0.3s;
+}
+.publication-pdf-main > span{
+    font-size: 20px;
+    line-height: 32.8px;
+    font-weight: 500;
+    font-family: var(--mainFont);
+    margin-top: 15px;
+}
+.journal2019-wrapper{
+    width: 100%;
+    padding: 2% 5% 2% 5%;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* border: 1px solid blue; */
 }

@@ -17,7 +17,6 @@
       <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
         <ul class="navbar-nav me-auto">
           <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">About</a>
             <ul class="dropdown-menu">
@@ -25,6 +24,7 @@
               <li><a class="dropdown-item" href="managing_committee.php">Managing Committee</a></li>
             </ul>
           </li>
+
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Alchemy</a>
             <ul class="dropdown-menu">
@@ -34,8 +34,8 @@
               <li><a class="dropdown-item" href="exploretheindustry.php">Explore the Industry</a></li>
             </ul>
           </li>
-          <li class="nav-item"><a class="nav-link" href="#">The FAFAI Publication</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">Newsroom</a></li>
+          <li class="nav-item"><a class="nav-link" href="theFAFAIpublication.php">The FAFAI Publication</a></li>
+          <li class="nav-item"><a class="nav-link" href="pressReleases.php">Newsroom</a></li>
 
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Events</a>
@@ -77,8 +77,8 @@
   <!-- Subheader -->
   <div class="subheader text-center">
     <div class="container">
-      <a href="#" class="text-dark mx-3">Stall Booking</a>
-      <a href="#" class="text-dark mx-3">Stall Layout</a>
+      <a href="https://fafai2025.nevendo.in/stall" class="text-dark mx-3">Stall Booking</a>
+      <a href="https://fafai.in/wp-content/uploads/2024/11/FAFAI-14-11-2024-FB.pdf" class="text-dark mx-3">Stall Layout</a>
       <a href="#" class="text-dark mx-3">FAFAI Member/Non-Member Registration</a>
       <a href="#" class="text-dark mx-3">FAFAI Overseas Registration</a>
       <a href="#" class="text-dark mx-3">Registration Addon</a>

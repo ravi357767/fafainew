@@ -192,9 +192,7 @@ include "header.php";
             <?php
                 include "./includes/gallery/newpresidentelection.php";
             ?>
-        </div>
-
-        
+        </div>     
 
     </div>
         <?php
