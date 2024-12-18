@@ -565,9 +565,9 @@ footer ul li {
 }
 
 #maine-sponser-img {
-    /* height: 600px;
-    width: 500px; */
-    width: 100%;
+    height: 600px;
+    width: 500px;
+    /* width: 100%; */
 }
 
 .sponsers-gallery {
@@ -601,12 +601,12 @@ footer ul li {
 }
 
 #gold-sponser-img {
-    height: 100px;
-    width: 200px;
+    height: 45px;
+    width: 136px;
 }
 
 #gold-sponser-img-1 {
-    height: 180px;
+    height: 65px;
     /* width: 200px; */
 }
 

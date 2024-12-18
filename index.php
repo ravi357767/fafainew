@@ -76,18 +76,18 @@
 
                 <div class="sponsers-gallery">
 
-                    <a href="https://www.distil.market/" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/Distil (1).jpeg" alt="Main Event Sponser Pic" id="gold-sponser-img"></a>
+                    <a href="https://www.distil.market/" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/65fb29a314473ee547f68f16_distil-logo-light.png" alt="Main Event Sponser Pic" id="gold-sponser-img"></a>
 
-                    <a href="https://www.dsm-firmenich.com/en/home.html" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/Firmenich-Logo.jpeg" alt="Main Event Sponser Pic" id="gold-sponser-img"></a>
+                    <a href="https://www.dsm-firmenich.com/en/home.html" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/logo-white (3).png" alt="Main Event Sponser Pic" id="gold-sponser-img"></a>
 
                     <a href="https://kljindia.com/" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/KJLNEW (1).png" alt="Main Event Sponser Pic" id="gold-sponser-img"></a>
                 </div>
                 <div class="sponsers-gallery">
-                    <a href="https://www.rawji.in//" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/Screenshot_2024-12-02_131816-removebg-preview-267x300.png" alt="Main Event Sponser Pic" id="gold-sponser-img-1"></a>
+                    <a href="https://www.rawji.in//" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/rawji-logo-300x161 (1).png" alt="Main Event Sponser Pic" id="gold-sponser-img-1"></a>
 
-                    <a href="https://www.vimallifesciences.com/" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/Screenshot_2024-12-02_132714-removebg-preview (1).png" alt="Main Event Sponser Pic" id="gold-sponser-img-1"></a>
+                    <a href="https://www.vimallifesciences.com/" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/logo (8).png" alt="Main Event Sponser Pic" id="gold-sponser-img-1"></a>
 
-                    <a href="https://www.bmvfragrances.com/" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/Screenshot_2024-12-02_134836-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="gold-sponser-img-1"></a>
+                    <a href="https://www.bmvfragrances.com/" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/bmv-single-line.png" alt="Main Event Sponser Pic" id="gold-sponser-img-1"></a>
 
                 </div>
 
