@@ -65,7 +65,6 @@
 
                     <a href="https://ultrainternational.com/" target="_blank"><img src="./includes/images/sponsers images/Diamond Sponsors/ULTRA-NEW-LOGO1 (1).png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
                 </div>
-
             </div>
             <!------------------------------------- Diamond  SPONSERS WRAPPER ------------------------------------->
 
@@ -109,31 +108,31 @@
 
                     <a href="https://ultrainternational.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152122-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
                 </div>
+                
                 <div class="sponsers-gallery">
-
                     <a href="https://finefrag.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152202-removebg-preview-removebg-preview-267x300.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
 
-                    <a href="https://www.karnatakaaromas.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152237-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
+                    <!-- <a href="https://www.karnatakaaromas.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152237-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a> -->
 
-                    <a href="https://www.symrise.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152359-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
+                    <!-- <a href="https://www.symrise.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152359-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
 
                     <a href="https://ultrainternational.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152724-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
-                </div>
-                <div class="sponsers-gallery">
+                </div> -->
 
+                <div class="sponsers-gallery">
                     <a href="https://finefrag.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152753-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
 
-                    <a href="https://www.karnatakaaromas.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152819-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
+                    <!-- <a href="https://www.karnatakaaromas.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152819-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
 
-                    <a href="https://www.symrise.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152847-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
+                    <a href="https://www.symrise.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152847-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a> -->
 
-                    <a href="https://ultrainternational.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/WhatsApp-Image-2024-11-28-at-11.05.25-AM.jpeg" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
+                    <!-- <a href="https://ultrainternational.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/WhatsApp-Image-2024-11-28-at-11.05.25-AM.jpeg" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a> -->
                 </div>
 
                 <div class="sponsers-gallery">
                     <a href="https://finefrag.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152910-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
 
-                    <a href="https://www.karnatakaaromas.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/WhatsApp-Image-2024-11-28-at-11.05.25-AM.jpeg" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
+                    <!-- <a href="https://www.karnatakaaromas.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/WhatsApp-Image-2024-11-28-at-11.05.25-AM.jpeg" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a> -->
                 </div>
 
             </div>
@@ -143,6 +142,18 @@
             <div class="main-event-sponser">
                 <h3>Lunch/Dinner Sponsors</h3>
                 <p>We welcome Nishant Aromas Pvt. Ltd. as our Lunch/Dinner Sponsor. Thank you for your invaluable support!</p>
+
+                <div class="sponsers-gallery">
+                    <a href="https://finefrag.com/" target="_blank"><img src="./includes/images/sponsers images/Diamond Sponsors/estd1980-1-min-1 (1).png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
+                </div>
+
+            </div>
+            <!------------------------------------- Lunch/Dinner Sponsor WRAPPER ------------------------------------->
+
+             <!------------------------------------- TEA Sponsor WRAPPER ------------------------------------->
+             <div class="main-event-sponser">
+                <h3>TEA Sponsors</h3>
+                <p>We welcome Seth Brothers (Perfumers) Pvt. Ltd. , Aurashine Essential Pvt. Ltd. , Pharm Aromatic Chemical Co., Flavor N Fusion Ingredients Pvt. Ltd. , Satyasha Chemicals , Veera Fragrances Pvt. Ltd. , LUZI (Malaysia) Sdn Bhd  as our Tea Sponsor. Thank you for your invaluable support!</p>
 
                 <div class="sponsers-gallery">
                     <a href="https://finefrag.com/" target="_blank"><img src="./includes/images/sponsers images/Diamond Sponsors/estd1980-1-min-1 (1).png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
