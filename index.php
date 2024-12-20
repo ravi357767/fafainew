@@ -155,7 +155,7 @@
 
                     <a href="https://finefrag.com/" target="_blank"><img src="./includes/images/sponsers images/Diamond Sponsors/estd1980-1-min-1 (1).png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
 
-                    <!-- <a href="https://finefrag.com/" target="_blank"><img src="./includes/images/sponsers images/Diamond Sponsors/estd1980-1-min-1 (1).png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a> -->
+                    <a href="https://www.luzi.com/" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/LUZI Logo_Blue.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
                 </div>
             </div>
             <!------------------------------------- TEA Sponsor WRAPPER ------------------------------------->
