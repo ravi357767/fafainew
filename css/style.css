@@ -515,7 +515,7 @@ footer ul li {
 
 .sponsers-wrapper {
     width: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     padding: 10px;
     display: inline-flex;
     flex-direction: column;
@@ -567,7 +567,6 @@ footer ul li {
 #maine-sponser-img {
     height: 600px;
     width: 500px;
-    /* width: 100%; */
 }
 
 .sponsers-gallery {
@@ -575,8 +574,7 @@ footer ul li {
     background-color: var(--Navbar-Cream);
     display: inline-flex;
     flex-direction: row;
-    flex-wrap: nowrap;
-    flex-flow: row;
+    flex-wrap: wrap;
     border-radius: 5px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -591,8 +589,9 @@ footer ul li {
 }
 
 #Diamond-sponser-img {
-    height: 100px;
+    height: 80px;
     width: 200px;
+    margin: 25px;
 }
 
 #Diamond-sponser-img-1 {
@@ -1373,7 +1372,6 @@ footer ul li {
 .pdf-edition-wrapper{
     display: inline-flex;
     flex-direction: row;
-
 }
 .pdf-edition-wrapper-main{
     width: 100%;
