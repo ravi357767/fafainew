@@ -598,7 +598,50 @@ footer ul li {
     height: 20%;
     /* width: 200px; */
 }
-
+#Diamond-sponser-img-01{
+    width: 100px;
+}
+#Diamond-sponser-img-02{
+    width: 200px;
+}
+#Diamond-sponser-img-03{
+    width: 200px;
+}
+#Diamond-sponser-img-04{
+    width: 200px;
+}
+#platinum-sponser-img-01{
+    width: 300px;
+    margin: 25px;
+}
+#platinum-sponser-img-02{
+    width: 300px;
+    margin: 25px;
+}
+#gold-sponser-img-01{
+    width: 150px;
+    margin: 25px;
+}
+#gold-sponser-img-02{
+    width: 300px;
+    margin: 25px;
+}
+#gold-sponser-img-03{
+    width: 200px;
+    margin: 25px;
+}
+#gold-sponser-img-04{
+    width: 150px;
+    margin: 25px;
+}
+#gold-sponser-img-05{
+    width: 350px;
+    margin: 25px;
+}
+#gold-sponser-img-06{
+    width: 350px;
+    margin: 25px;
+}
 #gold-sponser-img {
     height: 45px;
     width: 136px;
