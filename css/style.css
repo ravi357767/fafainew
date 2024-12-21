@@ -646,10 +646,57 @@ footer ul li {
     height: 45px;
     width: 136px;
 }
-
 #gold-sponser-img-1 {
     height: 65px;
     /* width: 200px; */
+}
+#silver-sponser-img-01{
+    width: 200px;
+    margin: 25px;
+}
+#silver-sponser-img-02{
+    width: 200px;
+    margin: 25px;
+}
+#silver-sponser-img-03{
+    width: 180px;
+    margin: 25px;
+}
+#silver-sponser-img-04{
+    width: 200px;
+    margin: 25px;
+}
+#silver-sponser-img-05{
+    width: 100px;
+    margin: 25px;
+}
+#silver-sponser-img-09{
+    width: 100px;
+    margin: 25px;
+}
+#silver-sponser-img-10{
+    width: 250px;
+    margin: 25px;
+}
+#silver-sponser-img-11{
+    width: 300px;
+    margin: 25px;
+}
+#silver-sponser-img-12{
+    width: 200px;
+    margin: 25px;
+}
+#silver-sponser-img-13{
+    width: 200px;
+    margin: 25px;
+}
+#lunchandDinner{
+    width: 200px;
+    margin: 25px;
+}
+#keycard{
+    width: 150px;
+    margin: 25px;
 }
 
 /* .sponsers-wrapper > h3:hover{
