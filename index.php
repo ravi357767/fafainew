@@ -22,7 +22,7 @@
     <div class="main-container">
         <div class="pdfbuttons">
             <div class="btn-grp">
-                <a href="./includes/pdfs/FAFAI-Seminar-Brochure-2025-1-1.pdf" target="_blank"><button>fafai 2025 seminar brochure</button></a>
+                <a href="./includes/pdfs/FAFAI Seminar Brochure 2025 (2).pdf" target="_blank"><button>fafai 2025 seminar brochure</button></a>
                 <!-- <a href="./includes/pdfs/Central-Zone-Regional-Get-together-Circular.pdf" target="_blank"><button>Central zone get - together</button></a> -->
             </div>
         </div>
