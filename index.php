@@ -155,17 +155,19 @@
                 <p>We welcome Seth Brothers (Perfumers) Pvt. Ltd. , Aurashine Essential Pvt. Ltd. , Pharm Aromatic Chemical Co., Flavor N Fusion Ingredients Pvt. Ltd. , Satyasha Chemicals , Veera Fragrances Pvt. Ltd. , LUZI (Malaysia) Sdn Bhd  as our Tea Sponsor. Thank you for your invaluable support!</p>
 
                 <div class="sponsers-gallery">
-                    <a href="https://satyasha.com/" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/homepage_04 (1).png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
+                    <a href="https://satyasha.com/" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/homepage_04 (1).png" alt="Main Event Sponser Pic" id="Tea-sponser-img-01"></a>
 
-                    <a href="https://flavornfusion.com/" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/logo (8).png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
+                    <a href="https://flavornfusion.com/" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/logo (8).png" alt="Main Event Sponser Pic" id="Tea-sponser-img-02"></a>
 
-                    <a href="https://shethbrothersestore.com/" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/Screenshot_20-12-2024_191920_-removebg-preview.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
+                    <a href="https://shethbrothersestore.com/" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/Screenshot_20-12-2024_191920_-removebg-preview.png" alt="Main Event Sponser Pic" id="Tea-sponser-img-03"></a>
 
-                    <a href="https://www.veerafragrances.com" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/Vreea-logo_R (1).png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
+                    <a href="https://www.veerafragrances.com" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/Vreea-logo_R (1).png" alt="Main Event Sponser Pic" id="Tea-sponser-img-04"></a>
 
-                    <a href="https://finefrag.com/" target="_blank"><img src="./includes/images/sponsers images/Diamond Sponsors/estd1980-1-min-1 (1).png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
+                    <a href="#" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/Screenshot_2024-12-21_210953-removebg-preview.png" alt="Main Event Sponser Pic" id="Tea-sponser-img-05"></a>
 
-                    <a href="https://www.luzi.com/" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/LUZI Logo_Blue.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img"></a>
+                    <a href="www.aurashinearomatic.com" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/Screenshot_2024-12-21_210633-removebg-preview.png" alt="Main Event Sponser Pic" id="Tea-sponser-img-06"></a>
+
+                    <a href="https://www.luzi.com/" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/LUZI Logo_Blue.png" alt="Main Event Sponser Pic" id="Tea-sponser-img-07"></a>
                 </div>
             </div>
             <!------------------------------------- TEA Sponsor WRAPPER ------------------------------------->
