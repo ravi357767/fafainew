@@ -105,6 +105,8 @@
                 
                     <a href="https://in.ajmal.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152202-removebg-preview-removebg-preview-267x300.png" alt="Main Event Sponser Pic" id="silver-sponser-img-05"></a>
 
+                    <a href="www.aurashinearomatic.com" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/Screenshot_2024-12-21_210633-removebg-preview.png" alt="Main Event Sponser Pic" id="Tea-sponser-img-06"></a>
+
                     <!-- <a href="https://www.karnatakaaromas.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152237-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="silver-sponser-img-06"></a> -->
 
                     <!-- <a href="https://www.symrise.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152359-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="silver-sponser-img-07"></a>
