@@ -163,7 +163,7 @@
 
                     <a href="https://flavornfusion.com/" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/logo (8).png" alt="Main Event Sponser Pic" id="Tea-sponser-img-02"></a>
 
-                    <a href="https://shethbrothersestore.com/" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/Screenshot_20-12-2024_191920_-removebg-preview.png" alt="Main Event Sponser Pic" id="Tea-sponser-img-03"></a>
+                    <a href="#" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/0.0WhatsApp_Image_2024-12-24_at_7.46.48_PM-removebg-preview.png" alt="Main Event Sponser Pic" id="Tea-sponser-img-03"></a>
 
                     <a href="https://www.veerafragrances.com" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/Vreea-logo_R (1).png" alt="Main Event Sponser Pic" id="Tea-sponser-img-04"></a>
 
