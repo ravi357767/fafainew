@@ -139,7 +139,7 @@
                 <div class="sponsers-gallery">
                     <a href="https://nishantaromas.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Screenshot_20-11-2024_153634_drive.google.com_-removebg-preview.png" alt="Main Event Sponser Pic" id="lunchandDinner-01"></a>
 
-                    <a href="#" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Logo - Katyani Exports (PNG-150x150px).png" alt="Main Event Sponser Pic" id="lunchandDinner-02"></a>
+                    <a href="https://www.katyaniexport.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Logo - Katyani Exports (PNG-150x150px).png" alt="Main Event Sponser Pic" id="lunchandDinner-02"></a>
                 </div>
             </div>
             <!------------------------------------- Lunch/Dinner Sponsor WRAPPER ------------------------------------->
