@@ -690,8 +690,12 @@ footer ul li {
     width: 200px;
     margin: 25px;
 }
-#lunchandDinner{
-    width: 200px;
+#lunchandDinner-01{
+    width: 150px;
+    margin: 25px;
+}
+#lunchandDinner-02{
+    width: 150px;
     margin: 25px;
 }
 #keycard{

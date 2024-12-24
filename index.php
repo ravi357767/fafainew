@@ -123,6 +123,8 @@
 
                     <a href="https://northernextracts.in" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152910-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="silver-sponser-img-13"></a>
 
+                    <a href="#" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152910-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="silver-sponser-img-13"></a>
+
                     <!-- <a href="https://www.karnatakaaromas.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/WhatsApp-Image-2024-11-28-at-11.05.25-AM.jpeg" alt="Main Event Sponser Pic" id="silver-sponser-img-14"></a> -->
                 </div>
 
@@ -135,7 +137,9 @@
                 <p>We welcome Nishant Aromas Pvt. Ltd. as our Lunch/Dinner Sponsor. Thank you for your invaluable support!</p>
 
                 <div class="sponsers-gallery">
-                    <a href="https://nishantaromas.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Screenshot_20-11-2024_153634_drive.google.com_-removebg-preview.png" alt="Main Event Sponser Pic" id="lunchandDinner"></a>
+                    <a href="https://nishantaromas.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Screenshot_20-11-2024_153634_drive.google.com_-removebg-preview.png" alt="Main Event Sponser Pic" id="lunchandDinner-01"></a>
+
+                    <a href="#" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Logo - Katyani Exports (PNG-150x150px).png" alt="Main Event Sponser Pic" id="lunchandDinner-02"></a>
                 </div>
             </div>
             <!------------------------------------- Lunch/Dinner Sponsor WRAPPER ------------------------------------->
