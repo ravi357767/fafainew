@@ -25,7 +25,7 @@
     <div class="carousel-item">
       <img src="./includes/images/sliderimages/40b952ac17.jpg" class="d-block w-100" alt="...">
       <div class="caption">
-        <strong>FAFAI 60 Years of Excellence</strong><br>
+        <strong>FAFAI 75 Years of Excellence</strong><br>
         <span>A timeline-style banner highlighting FAFAI's growth over 60 years, featuring milestones from its inception to becoming a national asscoiation with 100+ members</span><br>
         <button type="button" class="btn btn-outline-light">KNOW MORE</button>
       </div>
