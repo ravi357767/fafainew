@@ -138,6 +138,8 @@
                     <a href="https://nishantaromas.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Screenshot_20-11-2024_153634_drive.google.com_-removebg-preview.png" alt="Main Event Sponser Pic" id="lunchandDinner-01"></a>
 
                     <a href="https://www.katyaniexport.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Logo - Katyani Exports (PNG-150x150px).png" alt="Main Event Sponser Pic" id="lunchandDinner-02"></a>
+
+                    <a href="#" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/BBK-Specialities---Logo.png" alt="Main Event Sponser Pic" id="lunchandDinner-03"></a>
                 </div>
             </div>
             <!------------------------------------- Lunch/Dinner Sponsor WRAPPER ------------------------------------->
@@ -163,7 +165,7 @@
 
                     <a href="https://flavornfusion.com/" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/logo (8).png" alt="Main Event Sponser Pic" id="Tea-sponser-img-02"></a>
 
-                    <a href="#" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/0.0WhatsApp_Image_2024-12-24_at_7.46.48_PM-removebg-preview.png" alt="Main Event Sponser Pic" id="Tea-sponser-img-03"></a>
+                    <a href="https://www.schimmer.co.in/" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/0.0WhatsApp_Image_2024-12-24_at_7.46.48_PM-removebg-preview.png" alt="Main Event Sponser Pic" id="Tea-sponser-img-03"></a>
 
                     <a href="https://www.veerafragrances.com" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/Vreea-logo_R (1).png" alt="Main Event Sponser Pic" id="Tea-sponser-img-04"></a>
 
