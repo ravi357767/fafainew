@@ -79,9 +79,9 @@
 
                     <a href="https://kljindia.com/" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/KJLNEW (1).png" alt="Main Event Sponser Pic" id="gold-sponser-img-03"></a>
 
-                    <a href="https://www.rawji.in//" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/rawji-logo-300x161 (1).png" alt="Main Event Sponser Pic" id="gold-sponser-img-04"></a>
+                    <a href="https://www.rawji.in//" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/Rawji_Fine_Fragrances_-removebg-preview.png" alt="Main Event Sponser Pic" id="gold-sponser-img-04"></a>
 
-                    <a href="https://www.vimallifesciences.com/" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/logo (8).png" alt="Main Event Sponser Pic" id="gold-sponser-img-05"></a>
+                    <a href="https://www.vimallifesciences.com/" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/Vimal_Lifescience_-removebg-preview.png" alt="Main Event Sponser Pic" id="gold-sponser-img-05"></a>
 
                     <a href="https://www.bmvfragrances.com/" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/bmv-single-line.png" alt="Main Event Sponser Pic" id="gold-sponser-img-06"></a>
                 </div>
@@ -106,7 +106,7 @@
 
                     <a href="www.aurashinearomatic.com" target="_blank"><img src="./includes/images/sponsers images/Tea Sponsers/Screenshot_2024-12-21_210633-removebg-preview.png" alt="Main Event Sponser Pic" id="Tea-sponser-img-06"></a>
 
-                    <!-- <a href="https://www.karnatakaaromas.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152237-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="silver-sponser-img-06"></a> -->
+                    <a href="https://www.altaoils.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Alta_Oil_Logo__1_-removebg-preview.png" alt="Main Event Sponser Pic" id="silver-sponser-img-06"></a>
 
                     <!-- <a href="https://www.symrise.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152359-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="silver-sponser-img-07"></a>
 
@@ -114,7 +114,7 @@
 
                     <a href="https://ppsheth.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152753-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="silver-sponser-img-09"></a>
 
-                    <a href="https://www.petorosealcones.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/TYPEFACEE.cc50df58d7669bcb0c7c (1).png" alt="Main Event Sponser Pic" id="silver-sponser-img-10"></a>
+                    <a href="https://www.petorosealcones.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Petorose_Alcones_-removebg-preview.png" alt="Main Event Sponser Pic" id="silver-sponser-img-10"></a>
 
                     <a href="https://www.sclgroup.in" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/WhatsApp-Image-2024-11-28-at-11.05.25-AM.png" alt="Main Event Sponser Pic" id="silver-sponser-img-11"></a>
 
@@ -131,14 +131,14 @@
             <!------------------------------------- Lunch/Dinner Sponsor WRAPPER ------------------------------------->
             <div class="main-event-sponser">
                 <h3>Lunch/Dinner Sponsors</h3>
-                <p>We welcome Katyani Export, Nishant Aromas Pvt. Ltd. as our Lunch/Dinner Sponsor. Thank you for your invaluable support!</p>
+                <p>We welcome Katyani Export, Nishant Aromas Pvt. Ltd., BBK Specialities Pvt. Ltd., as our Lunch/Dinner Sponsor. Thank you for your invaluable support!</p>
 
                 <div class="sponsers-gallery">
                 <a href="https://nishantaromas.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Screenshot_20-11-2024_153634_drive.google.com_-removebg-preview.png" alt="Main Event Sponser Pic" id="lunchandDinner-01"></a>
 
                 <a href="https://www.katyaniexport.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Logo - Katyani Exports (PNG-150x150px).png" alt="Main Event Sponser Pic" id="lunchandDinner-02"></a>
                 
-                <a href="#" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/BBK-Specialities---Logo.png" alt="Main Event Sponser Pic" id="lunchandDinner-03"></a>
+                <a href="https://bbkspecialities.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/BBK-Specialities---Logo.png" alt="Main Event Sponser Pic" id="lunchandDinner-03"></a>
 		
 <a href="https://www.norex.in/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Norex 30.png" alt="Main Event Sponser Pic" id="lunchandDinner-04"></a>	
             </div>
