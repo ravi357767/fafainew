@@ -108,9 +108,7 @@
 
                     <a href="https://www.altaoils.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Alta_Oil_Logo__1_-removebg-preview.png" alt="Main Event Sponser Pic" id="silver-sponser-img-06"></a>
 
-                    <!-- <a href="https://www.symrise.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152359-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="silver-sponser-img-07"></a>
-
-                    <a href="https://ultrainternational.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152724-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="silver-sponser-img-08"></a> -->
+                    <a href="https://ssaroma.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/S___S_Aroma_-removebg-preview.png" alt="Main Event Sponser Pic" id="silver-sponser-img-08"></a>
 
                     <a href="https://ppsheth.com/" target="_blank"><img src="./includes/images/sponsers images/Silver Sponsors/Screenshot_2024-12-02_152753-removebg-preview-150x150.png" alt="Main Event Sponser Pic" id="silver-sponser-img-09"></a>
 
@@ -199,7 +197,7 @@
 
         <div class="welcome-to-fafai">
             <span>Welcome To FAFAI</span>
-            <p>In 1949, a group of connoisseurs came together to form a fraternity to promote flavours and fragrances in India. This humble beginning created a sense of unity amongst the traders and dealers in the industry of Perfumes and Flavours leading to the formation of Fragrances and Flavours Association of India (FAFAI). Within a span of 75 years, FAFAI has grown into a national association with over 800 members from amongst the dealers and manufacturers in Fragrances, Flavours, Aroma chemicals, naturals and its ancillaries.
+            <p>In 1949, a group of connoisseurs came together to form a fraternity to promote flavours and fragrances in India. This humble beginning created a sense of unity amongst the traders and dealers in the industry of Perfumes and Flavours leading to the formation of Fragrances and Flavours Association of India (FAFAI). Within a span of 75 years, FAFAI has grown into a national association with over 800+ members from amongst the dealers and manufacturers in Fragrances, Flavours, Aroma chemicals, naturals and its ancillaries.
             </p>
             <img src="./includes/images/FAFAI-Seminar-March-2025-768x528.jpeg" alt="">
         </div>

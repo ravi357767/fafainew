@@ -290,7 +290,7 @@ include "header.php";
                     <span><i class="fa-solid fa-envelope"><a href="mailto:ashish@affaromatics.com">
                                 ashish@affaromatics.com</a></i></span>
                     <hr>
-                    <span><i class="fa-solid fa-phone"><a href="tel:9831267004">9831267004</a></i></span>
+                    <span><i class="fa-solid fa-phone"><a href="tel:8980588899">8980588899</a></i></span>
                     <hr>
                 </div>
             </div>
