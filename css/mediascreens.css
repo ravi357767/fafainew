@@ -148,6 +148,7 @@
         width: 100%;
         display: inline-flex;
         flex-direction: column;
+	align-items: center;
     }
     .sponsers-wrapper{
         width: 100%;
@@ -599,10 +600,8 @@
     .virtual-bazaar-2022-main {
         width: 100%;
     }
-    #maine-sponser-img{
-        width: 100%;
-    }
-    #Diamond-sponser-img-01{
+	
+	#Diamond-sponser-img-01{
         width: 100px;
         margin: 25px;
     }
@@ -618,7 +617,7 @@
         width: 200px;
         margin: 25px;
     }
-    #platinum-sponser-img-01{
+#platinum-sponser-img-01{
         margin: 25px;
     }
     #platinum-sponser-img-02{
@@ -645,7 +644,7 @@
         margin: 25px;
     }
     #gold-sponser-img-06{
-        width: 350px;
+        width: 280px;
         margin: 25px;
     }
     #gold-sponser-img {

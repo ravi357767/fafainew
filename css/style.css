@@ -35,6 +35,9 @@
 footer ul {
     padding-left: 0;
 }
+footer{
+    width: 100%;
+}
 
 footer ul li {
     margin-bottom: 10px;
@@ -642,10 +645,12 @@ footer ul li {
     width: 350px;
     margin: 25px;
 }
+
 #gold-sponser-img {
     height: 45px;
     width: 136px;
 }
+
 #gold-sponser-img-1 {
     height: 65px;
     /* width: 200px; */
@@ -691,7 +696,7 @@ footer ul li {
     margin: 25px;
 }
 #silver-sponser-img-14{
-    width: 200px;
+    width: 170px;
     margin: 25px;
 }
 #lunchandDinner-01{
@@ -704,6 +709,18 @@ footer ul li {
 }
 #lunchandDinner-03{
     width: 150px;
+    margin: 25px;
+}
+#lunchandDinner-04{
+    width: 150px;
+    margin: 25px;
+}
+#Delegate-Kit-img-01{
+    width: 300px;
+    margin: 25px;
+}
+#Delegate-Kit-img-02{
+    width: 300px;
     margin: 25px;
 }
 #keycard{

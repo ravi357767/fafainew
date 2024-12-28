@@ -24,7 +24,7 @@
 
         <!-- Right Section -->
         <div class="col-lg-6">
-          <h5 class="text-center">Contact</h5>
+          <h5>Contact</h5>
           <ul class="list-unstyled">
             <li><i class="fa-solid fa-phone"></i> +91 22 35100845</li>
             <li><i class="fa-regular fa-envelope"></i> mail@fafai.in</li>

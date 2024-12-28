@@ -42,9 +42,9 @@
                 <p>We welcome Oriental Aromatics Ltd. and Kalpsutra Chemicals Pvt. Ltd. as our Platinum Sponsors. Thank you for your support!</p>
 
                 <div class="sponsers-gallery">
-                    <a href="https://www.kalpsutra.com/" target="_blank"><img src="./includes/images/sponsers images/Platinum Sponsors/Kalpsutra-1024x247.png" alt="Main Event Sponser Pic" id="platinum-sponser-img-01"></a>
+                    <a href="https://www.kalpsutra.com/" target="_blank"><img src="./includes/images/sponsers images/Platinum Sponsors/Kalpsutra-1024x247.png" alt="Main Event Sponser Pic" id="platinum-sponser-img"></a>
 
-                    <a href="https://www.orientalaromatics.com/" target="_blank"><img src="./includes/images/sponsers images/Platinum Sponsors/Oriental-Aromatics-Ltd-1024x97.png" alt="Main Event Sponser Pic" id="platinum-sponser-img-02"></a>
+                    <a href="https://www.orientalaromatics.com/" target="_blank"><img src="./includes/images/sponsers images/Platinum Sponsors/Oriental-Aromatics-Ltd-1024x97.png" alt="Main Event Sponser Pic" id="platinum-sponser-img"></a>
                 </div>
             </div>
             <!------------------------------------- Platinum SPONSERS WRAPPER ------------------------------------->
@@ -55,7 +55,6 @@
                 <p>We welcome Fine Fragrances Pvt. Ltd. Karnataka, Symrise Pvt. Ltd., and Ultra International Limited as our Diamond Sponsors. Thank you for your support!
                 </p>
                 <div class="sponsers-gallery">
-
                     <a href="https://finefrag.com/" target="_blank"><img src="./includes/images/sponsers images/Diamond Sponsors/estd1980-1-min-1 (1).png" alt="Main Event Sponser Pic" id="Diamond-sponser-img-01"></a>
 
                     <a href="https://www.karnatakaaromas.com/" target="_blank"><img src="./includes/images/sponsers images/Diamond Sponsors/karnataka-aromas-identity (1).png" alt="Main Event Sponser Pic" id="Diamond-sponser-img-02"></a>
@@ -63,7 +62,6 @@
                     <a href="https://www.symrise.com/" target="_blank"><img src="./includes/images/sponsers images/Diamond Sponsors/symrise_logo-1024x293.png" alt="Main Event Sponser Pic" id="Diamond-sponser-img-03"></a>
 
                     <a href="https://ultrainternational.com/" target="_blank"><img src="./includes/images/sponsers images/Diamond Sponsors/ULTRA-NEW-LOGO1 (1).png" alt="Main Event Sponser Pic" id="Diamond-sponser-img-04"></a>
-                    
                 </div>
             </div>
             <!------------------------------------- Diamond  SPONSERS WRAPPER ------------------------------------->
@@ -72,6 +70,7 @@
             <div class="main-event-sponser">
                 <h3>Gold Sponsors</h3>
                 <p>We welcome Rawji Fine Fragrance Pvt. Ltd., Vimal Lifesciences Pvt. Ltd., BMV Fragrances Pvt. Ltd., Firmenich Aromatics Production (India) Pvt. Ltd., CH101 Market Pvt. Ltd. (Distil) and KLJ Plasticizers Ltd as our Gold Sponsors. Thank you for your invaluable support!</p>
+
                 <div class="sponsers-gallery">
 
                     <a href="https://www.distil.market/" target="_blank"><img src="./includes/images/sponsers images/Gold Sponsors/65fb29a314473ee547f68f16_distil-logo-light.png" alt="Main Event Sponser Pic" id="gold-sponser-img-01"></a>
@@ -135,17 +134,18 @@
                 <p>We welcome Katyani Export, Nishant Aromas Pvt. Ltd. as our Lunch/Dinner Sponsor. Thank you for your invaluable support!</p>
 
                 <div class="sponsers-gallery">
-                    <a href="https://nishantaromas.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Screenshot_20-11-2024_153634_drive.google.com_-removebg-preview.png" alt="Main Event Sponser Pic" id="lunchandDinner-01"></a>
+                <a href="https://nishantaromas.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Screenshot_20-11-2024_153634_drive.google.com_-removebg-preview.png" alt="Main Event Sponser Pic" id="lunchandDinner-01"></a>
 
-                    <a href="https://www.katyaniexport.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Logo - Katyani Exports (PNG-150x150px).png" alt="Main Event Sponser Pic" id="lunchandDinner-02"></a>
-
-                    <a href="#" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/BBK-Specialities---Logo.png" alt="Main Event Sponser Pic" id="lunchandDinner-03"></a>
-                </div>
+                <a href="https://www.katyaniexport.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Logo - Katyani Exports (PNG-150x150px).png" alt="Main Event Sponser Pic" id="lunchandDinner-02"></a>
+                
+                <a href="#" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/BBK-Specialities---Logo.png" alt="Main Event Sponser Pic" id="lunchandDinner-03"></a>
+		
+<a href="https://www.norex.in/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Norex 30.png" alt="Main Event Sponser Pic" id="lunchandDinner-04"></a>	
             </div>
             <!------------------------------------- Lunch/Dinner Sponsor WRAPPER ------------------------------------->
 
-             <!------------------------------------- KeyCard Sponsor WRAPPER ------------------------------------->
-             <div class="main-event-sponser">
+            <!------------------------------------- KeyCard Sponsor WRAPPER ------------------------------------->
+            <div class="main-event-sponser">
                 <h3>Key Card Room Hamper Sponsor</h3>
                 <p>We welcome Ventos Leaders in Essence as our Key Card Room Hamper Sponsor. Thank you for your invaluable support!</p>
 
@@ -157,7 +157,7 @@
 
              <!------------------------------------- TEA Sponsor WRAPPER ------------------------------------->
              <div class="main-event-sponser">
-                <h3>TEA Sponsors</h3>
+                <h3>Tea Sponsors</h3>
                 <p>We welcome Seth Brothers (Perfumers) Pvt. Ltd. , Aurashine Essential Pvt. Ltd. , Pharm Aromatic Chemical Co., Flavor N Fusion Ingredients Pvt. Ltd. , Satyasha Chemicals , Veera Fragrances Pvt. Ltd. , LUZI (Malaysia) Sdn Bhd  as our Tea Sponsor. Thank you for your invaluable support!</p>
 
                 <div class="sponsers-gallery">
@@ -178,13 +178,28 @@
             </div>
             <!------------------------------------- TEA Sponsor WRAPPER ------------------------------------->
 
+<!------------------------------------- Delegate Kit/Bag Sponsors  WRAPPER ------------------------------------->
+            <div class="main-event-sponser">
+                <h3>Delegate Kit/Bag Sponsors </h3>
+                <p>We welcome Imperial Fragrances Pvt. Ltd., Aurashine Essential Pvt. Ltd. , IKTA Aromatics Limited as our Delegate Bag/Kit Sponsors. Thank you for your invaluable support!</p>
+
+                <div class="sponsers-gallery">
+                    <a href="https://www.iktaaromatics.com/" target="_blank"><img src="./includes\images\sponsers images\Delegate KitBag Sponsors/Ikta Aromatics .png" alt="Main Event Sponser Pic" id="Delegate-Kit-img-01"></a>
+
+                    <a href="https://www.imperialfragrances.com/" target="_blank"><img src="./includes\images\sponsers images\Delegate KitBag Sponsors/Imperial Fragrances .png" alt="Main Event Sponser Pic" id="Delegate-Kit-img-02"></a>
+
+                </div>
+            </div>
+            <!------------------------------------- Delegate Kit/Bag Sponsors  WRAPPER ------------------------------------->
+
+
             <!------------------------------------- MAIN SPONSERS WRAPPER ------------------------------------->
         </div>
         <!--------------------------------------------- SPONSERS WRAPPER -------------------------------------------->
 
         <div class="welcome-to-fafai">
             <span>Welcome To FAFAI</span>
-            <p>In 1949, a group of connoisseurs came together to form a fraternity to promote flavours and fragrances in India. This humble beginning created a sense of unity amongst the traders and dealers in the industry of Perfumes and Flavours leading to the formation of Fragrances and Flavours Association of India (FAFAI). Within a span of 60 years, FAFAI has grown into a national association with over 800 members from amongst the dealers and manufacturers in Fragrances, Flavours, Aroma chemicals, naturals and its ancillaries.
+            <p>In 1949, a group of connoisseurs came together to form a fraternity to promote flavours and fragrances in India. This humble beginning created a sense of unity amongst the traders and dealers in the industry of Perfumes and Flavours leading to the formation of Fragrances and Flavours Association of India (FAFAI). Within a span of 75 years, FAFAI has grown into a national association with over 800 members from amongst the dealers and manufacturers in Fragrances, Flavours, Aroma chemicals, naturals and its ancillaries.
             </p>
             <img src="./includes/images/FAFAI-Seminar-March-2025-768x528.jpeg" alt="">
         </div>
