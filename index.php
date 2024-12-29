@@ -179,7 +179,7 @@
 <!------------------------------------- Delegate Kit/Bag Sponsors  WRAPPER ------------------------------------->
             <div class="main-event-sponser">
                 <h3>Delegate Kit/Bag Sponsors </h3>
-                <p>We welcome Imperial Fragrances Pvt. Ltd., Aurashine Essential Pvt. Ltd. , IKTA Aromatics Limited as our Delegate Bag/Kit Sponsors. Thank you for your invaluable support!</p>
+                <p>We welcome Imperial Fragrances Pvt. Ltd., & IKTA Aromatics Limited as our Delegate Bag/Kit Sponsors. Thank you for your invaluable support!</p>
 
                 <div class="sponsers-gallery">
                     <a href="https://www.iktaaromatics.com/" target="_blank"><img src="./includes\images\sponsers images\Delegate KitBag Sponsors/Ikta Aromatics .png" alt="Main Event Sponser Pic" id="Delegate-Kit-img-01"></a>
