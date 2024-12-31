@@ -129,7 +129,7 @@
             <!------------------------------------- Lunch/Dinner Sponsor WRAPPER ------------------------------------->
             <div class="main-event-sponser">
                 <h3>Lunch/Dinner Sponsors</h3>
-                <p>We welcome Katyani Export, Nishant Aromas Pvt. Ltd., BBK Specialities Pvt. Ltd., as our Lunch/Dinner Sponsor. Thank you for your invaluable support!</p>
+                <p>We welcome Katyani Export, Nishant Aromas Pvt. Ltd., BBK Specialities Pvt. Ltd., as our Lunch/Dinner Sponsor. and Norex Flavours Pvt. Ltd. Thank you for your invaluable support!</p>
 
                 <div class="sponsers-gallery">
                 <a href="https://nishantaromas.com/" target="_blank"><img src="./includes/images/sponsers images/LunchDinner Sponsor/Screenshot_20-11-2024_153634_drive.google.com_-removebg-preview.png" alt="Main Event Sponser Pic" id="lunchandDinner-01"></a>
@@ -182,6 +182,7 @@
                 <p>We welcome Imperial Fragrances Pvt. Ltd., & IKTA Aromatics Limited as our Delegate Bag/Kit Sponsors. Thank you for your invaluable support!</p>
 
                 <div class="sponsers-gallery">
+
                     <a href="https://www.iktaaromatics.com/" target="_blank"><img src="./includes\images\sponsers images\Delegate KitBag Sponsors/Ikta Aromatics .png" alt="Main Event Sponser Pic" id="Delegate-Kit-img-01"></a>
 
                     <a href="https://www.imperialfragrances.com/" target="_blank"><img src="./includes\images\sponsers images\Delegate KitBag Sponsors/Imperial Fragrances .png" alt="Main Event Sponser Pic" id="Delegate-Kit-img-02"></a>
