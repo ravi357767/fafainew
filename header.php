@@ -81,7 +81,7 @@
     <div class="container">
       <a href="https://fafai2025.nevendo.in/stall" class="text-dark mx-3" target="_blank">Stall Booking</a>
 
-      <a href="./includes/pdfs/FAFAI-01-01-2025-Updated-Model.pdf WITHOUT FC (1).pdf" class="text-dark mx-3" target="_blank">Stall Layout</a>
+      <a href="./includes/pdfs/03-01-2025 ES1 UPDATED_250103_185259.pdf" class="text-dark mx-3" target="_blank">Stall Layout</a>
 
       <a href="./includes/pdfs/FAFAI-2025-DESIGN-GUIDELINES-UPDATED22.11.2024.pdf" class="text-dark mx-3" target="_blank">Stall Design & Construction Guideline</a>
 
