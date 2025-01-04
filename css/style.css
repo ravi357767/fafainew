@@ -1553,3 +1553,38 @@ footer ul li {
     line-height: 49.2px;
     font-weight: 700;
 }
+.go-to-top-wrapper{
+    width: 100%;
+    padding: 20px;
+    z-index: 1;
+    position: fixed;
+    bottom: 0;
+    display: inline-flex;
+    flex-direction: row-reverse;
+
+}
+#go-to-top{
+    align-items: center;
+    border-radius: 100%;
+}
+#go-to-top > button >i{
+    padding: 10px;
+    width: 40px;
+    height: 40px;
+    color: white;
+}
+#go-to-top > button >i:hover{
+    color: var(--Light-Brown)
+}
+#go-to-top > button{
+    align-items: center;
+    background-color: var(--Light-Brown);
+    border-radius: 100px;
+    border: 1px solid rgb(197, 196, 196);
+}
+#go-to-top > button:hover{
+    background-color: var(--Navbar-Cream);
+    transition: ease;
+    transition-duration: 0.3s;
+}
+
