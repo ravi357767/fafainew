@@ -44,7 +44,7 @@ include "header.php";
         <div class="committees-profiles">
             <div class="committees-img-wrapper">
                 <p>President</p>
-                <img src="./includes/images/managing committee images/MR.JAIDEEP GANDHI.jpg" alt="President Image" id="committees-img">
+                <img src="./includes/images/managing committee images/MR.JAIDEEP GANDHI.JPG" alt="President Image" id="committees-img">
             </div>
             <div class="committees-details-wrapper">
                 <p>MR.JAIDEEP GANDHI</p>
@@ -67,7 +67,7 @@ include "header.php";
         <div class="committees-profiles">
             <div class="committees-img-wrapper">
                 <p>VICE PRESIDENT</p>
-                <img src="./includes/images/managing committee images/MR.YOGESH DUBEY.jpg" alt="President Image" id="committees-img">
+                <img src="./includes/images/managing committee images/MR.YOGESH DUBEY.JPG" alt="President Image" id="committees-img">
             </div>
             <div class="committees-details-wrapper">
                 <p>MR.YOGESH DUBEY</p>
@@ -91,7 +91,7 @@ include "header.php";
         <div class="committees-profiles">
             <div class="committees-img-wrapper">
                 <p>HON.SECRETARY</p>
-                <img src="./includes/images/managing committee images/MR.SHABD K.MEHTA.jpg" alt="President Image" id="committees-img">
+                <img src="./includes/images/managing committee images/MR.SHABD K.MEHTA.JPG" alt="President Image" id="committees-img">
             </div>
             <div class="committees-details-wrapper">
                 <p>MR.SHABD K.MEHTA</p>
@@ -117,7 +117,7 @@ include "header.php";
         <div class="committees-profiles">
             <div class="committees-img-wrapper">
                 <p>HON.JT.SECRETARY</p>
-                <img src="./includes/images/managing committee images/MR.SANJAY HARLALKA.jpg" alt="President Image" id="committees-img">
+                <img src="./includes/images/managing committee images/MR.SANJAY HARLALKA.JPG" alt="President Image" id="committees-img">
             </div>
             <div class="committees-details-wrapper">
                 <p>MR.SANJAY HARLALKA</p>
@@ -142,7 +142,7 @@ include "header.php";
         <div class="committees-profiles">
             <div class="committees-img-wrapper">
                 <p>HON.TREASURER</p>
-                <img src="./includes/images/managing committee images/MR.KEDAR VAZE.jpg" alt="President Image" id="committees-img">
+                <img src="./includes/images/managing committee images/MR.KEDAR VAZE.JPG" alt="President Image" id="committees-img">
             </div>
             <div class="committees-details-wrapper">
                 <p>MR.KEDAR VAZE</p>
@@ -199,7 +199,7 @@ include "header.php";
         <div class="committees-profiles">
             <div class="committees-img-wrapper">
                 <p>NORTH ZONE</p>
-                <img src="./includes/images/managing committee images/MR.PIYUSH GUPTA.jpg" alt="President Image" id="committees-img">
+                <img src="./includes/images/managing committee images/MR.PIYUSH GUPTA.JPG" alt="President Image" id="committees-img">
             </div>
             <div class="committees-details-wrapper">
                 <p>MR.PIYUSH GUPTA</p>
@@ -224,7 +224,7 @@ include "header.php";
         <div class="committees-profiles">
             <div class="committees-img-wrapper">
                 <p>SOUTH ZONE</p>
-                <img src="./includes/images/managing committee images/MR.A.APPARAO.jpg" alt="President Image" id="committees-img">
+                <img src="./includes/images/managing committee images/MR.A.APPARAO.JPG" alt="President Image" id="committees-img">
             </div>
             <div class="committees-details-wrapper">
                 <p>MR.A.APPARAO</p>
@@ -275,7 +275,7 @@ include "header.php";
         <div class="committees-profiles">
             <div class="committees-img-wrapper">
                 <p>WEST ZONE</p>
-                <img src="./includes/images/managing committee images/MR.HARSH K.SHAH.jpg" alt="President Image" id="committees-img">
+                <img src="./includes/images/managing committee images/MR.HARSH K.SHAH.JPG" alt="President Image" id="committees-img">
             </div>
             <div class="committees-details-wrapper">
                 <p>MR.HARSH K.SHAH</p>
@@ -310,7 +310,7 @@ include "header.php";
         <div class="committees-profiles">
             <div class="committees-img-wrapper">
                 <!-- <p>CENTRAL ZONE</p> -->
-                <img src="./includes/images/managing committee images/MR. ABHINAV PIYUSH KOTAK.jpg" alt="President Image" id="committees-img">
+                <img src="./includes/images/managing committee images/MR. ABHINAV PIYUSH KOTAK.JPG" alt="President Image" id="committees-img">
             </div>
             <div class="committees-details-wrapper">
                 <p>MR. ABHINAV PIYUSH KOTAK</p>
@@ -360,7 +360,7 @@ include "header.php";
         <div class="committees-profiles">
             <div class="committees-img-wrapper">
                 <!-- <p>SOUTH ZONE</p> -->
-                <img src="./includes/images/managing committee images/MR. ASHISH GUPTA.jpg" alt="President Image" id="committees-img">
+                <img src="./includes/images/managing committee images/MR. ASHISH GUPTA.JPG" alt="President Image" id="committees-img">
             </div>
             <div class="committees-details-wrapper">
                 <p>MR. ASHISH GUPTA</p>
@@ -408,7 +408,7 @@ include "header.php";
         <div class="committees-profiles">
             <div class="committees-img-wrapper">
                 <!-- <p>WEST ZONE</p> -->
-                <img src="./includes/images/managing committee images/MR.GEEMON KORAH.jpg" alt="President Image" id="committees-img">
+                <img src="./includes/images/managing committee images/MR.GEEMON KORAH.JPG" alt="President Image" id="committees-img">
             </div>
             <div class="committees-details-wrapper">
                 <p>MR.GEEMON KORAH</p>
@@ -486,7 +486,7 @@ include "header.php";
         <div class="committees-profiles">
             <div class="committees-img-wrapper">
                 <!-- <p>WEST ZONE</p> -->
-                <img src="./includes/images/managing committee images/MR. SHARAD GUPTA.jpg" alt="President Image" id="committees-img">
+                <img src="./includes/images/managing committee images/MR. SHARAD GUPTA.JPG" alt="President Image" id="committees-img">
             </div>
             <div class="committees-details-wrapper">
                 <p>MR. SHARAD GUPTA</p>
@@ -511,7 +511,7 @@ include "header.php";
         <div class="committees-profiles">
             <div class="committees-img-wrapper">
                 <!-- <p>WEST ZONE</p> -->
-                <img src="./includes/images/managing committee images/MR.SHYAM PRABHU.jpg" alt="President Image" id="committees-img">
+                <img src="./includes/images/managing committee images/MR.SHYAM PRABHU.JPG" alt="President Image" id="committees-img">
             </div>
             <div class="committees-details-wrapper">
                 <p>MR.SHYAM PRABHU</p>
@@ -689,7 +689,7 @@ include "header.php";
     <div class="committees-profiles">
         <div class="committees-img-wrapper">
             <!-- <p>WEST ZONE</p> -->
-            <img src="./includes/images/managing committee images/MR.RISHABH KOTHARI.jpg" alt="President Image" id="committees-img">
+            <img src="./includes/images/managing committee images/MR.RISHABH KOTHARI.JPG" alt="President Image" id="committees-img">
         </div>
         <div class="committees-details-wrapper">
             <p>MR.RISHABH KOTHARI</p>
