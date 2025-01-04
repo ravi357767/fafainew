@@ -418,18 +418,18 @@ footer ul li {
 }
 
 #committees-img {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 300px;
     border-radius: 5%;
 }
 
-#committees-img:hover {
+/* #committees-img:hover {
     width: 250px;
     height: 250px;
     border-radius: 5%;
     transition: ease-out;
     transition-duration: 0.3s;
-}
+} */
 
 .committees-details-wrapper>span {
     width: 50px;
