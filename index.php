@@ -22,7 +22,7 @@
     <div class="main-container">
         <div class="pdfbuttons">
             <div class="btn-grp">
-                <a href="./includes/pdfs/FAFAI Seminar Brochure 2025 (2).pdf" target="_blank"><button>fafai 2025 seminar brochure</button></a>
+                <a href="./includes/pdfs/07-01-2025 FAFAI Seminar Brochure 2025 (2).pdf" target="_blank"><button>fafai 2025 seminar brochure</button></a>
                 <!-- <a href="./includes/pdfs/Central-Zone-Regional-Get-together-Circular.pdf" target="_blank"><button>Central zone get - together</button></a> -->
             </div>
         </div>
@@ -185,7 +185,7 @@
 
                     <a href="https://www.iktaaromatics.com/" target="_blank"><img src="./includes\images\sponsers images\Delegate KitBag Sponsors/Ikta Aromatics .png" alt="Main Event Sponser Pic" id="Delegate-Kit-img-01"></a>
 
-                    <a href="https://www.imperialfragrances.com/" target="_blank"><img src="./includes\images\sponsers images\Delegate KitBag Sponsors/Imperial Fragrances .png" alt="Main Event Sponser Pic" id="Delegate-Kit-img-02"></a>
+                    <a href="https://www.imperialfragrances.com/" target="_blank"><img src="./includes\images\sponsers images\Delegate KitBag Sponsors/Imperial New Red Logo.png" alt="Main Event Sponser Pic" id="Delegate-Kit-img-02"></a>
 
                 </div>
             </div>
