@@ -659,4 +659,25 @@
         width: 250px;
         margin: 25px;
     }
+    .btn-grp>a>button {
+        padding: 2% 10% 2% 10%;
+        background-color: var(--Navbar-Cream);
+        font-size: 12px;
+        font-family: var(--mainFont);
+        font-weight: 400;
+        width: 100%;
+        text-transform: uppercase;
+        letter-spacing: 2.29041px;
+        border-radius: 2px;
+        border: 1px solid var(--Navbar-Cream);
+    }
+    .pdfbuttons{
+        width: 100%;
+        padding: 1%;
+        background-color: var(--Light-Brown);
+        display: inline-flex;
+        flex-direction: row;
+        justify-content: center;
+        /* align-items: center; */
+    }
 }

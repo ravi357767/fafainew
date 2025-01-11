@@ -475,8 +475,8 @@ footer ul li {
     background-color: var(--Light-Brown);
     display: inline-flex;
     flex-direction: row;
-    /* justify-content: center; */
-    align-items: center;
+    justify-content: center;
+    /* align-items: center; */
 }
 
 .btn-grp {
@@ -495,7 +495,6 @@ footer ul li {
     font-size: 12px;
     font-family: var(--mainFont);
     font-weight: 400;
-    width: 100%;
     text-transform: uppercase;
     letter-spacing: 2.29041px;
     border-radius: 2px;
